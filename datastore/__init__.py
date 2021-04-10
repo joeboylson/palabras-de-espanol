@@ -8,11 +8,11 @@ from .spanish import *
 from .english import *
 
 def init_db():
-    
+
     print("DELETING ALL WORDS")
-    Words.query.delete()
-    Spanish.query.delete()
     English.query.delete()
+    Spanish.query.delete()
+    Words.query.delete()
 
     print("ADDING ALL WORDS")
     with open('datastore/raw_data/words.json') as words_file:
