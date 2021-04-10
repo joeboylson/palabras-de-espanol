@@ -15,10 +15,6 @@ def before_request():
     if not current_user:
         abort(401)
 
-@protected.route('/')
-def index():
-    return 'INDEX'
-
 @protected.route('/logout')
 def logout():
     logout_user()

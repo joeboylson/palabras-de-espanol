@@ -9,36 +9,39 @@ from .english import *
 
 def init_db():
 
-    # print("DELETING ALL WORDS")
-    # English.query.delete()
-    # Spanish.query.delete()
-    # Words.query.delete()
+    db.drop_all()
+    db.create_all()
 
-    # print("ADDING ALL WORDS")
-    # with open('datastore/raw_data/words.json') as words_file:
-    #     words = json.load(words_file)
+    print("DELETING ALL WORDS")
+    English.query.delete()
+    Spanish.query.delete()
+    Words.query.delete()
 
-    #     for word in words:
+    print("ADDING ALL WORDS")
+    with open('datastore/raw_data/words.json') as words_file:
+        words = json.load(words_file)
+
+        for word in words:
     
-    #         id = word.get('id', None)
-    #         to_spanish_tip = word.get('to_spanish_tip', None)
-    #         to_english_tip = word.get('to_english_tip', None)
+            id = word.get('id', None)
+            to_spanish_tip = word.get('to_spanish_tip', None)
+            to_english_tip = word.get('to_english_tip', None)
 
-    #         new_word = Words(id=id, to_spanish_tip=to_spanish_tip, to_english_tip=to_english_tip)
-    #         db.session.add(new_word)
+            new_word = Words(id=id, to_spanish_tip=to_spanish_tip, to_english_tip=to_english_tip)
+            db.session.add(new_word)
 
-    #         spanish = word.get('spanish', None)
-    #         english = word.get('english', None)
+            spanish = word.get('spanish', None)
+            english = word.get('english', None)
 
-    #         for text in spanish:
-    #             new_spanish_word = Spanish(word_id=new_word.id, text=text)
-    #             db.session.add(new_spanish_word)
+            for text in spanish:
+                new_spanish_word = Spanish(word_id=new_word.id, text=text)
+                db.session.add(new_spanish_word)
 
-    #         for text in english:
-    #             new_english_word = English(word_id=new_word.id, text=text)
-    #             db.session.add(new_english_word)
+            for text in english:
+                new_english_word = English(word_id=new_word.id, text=text)
+                db.session.add(new_english_word)
         
-    #     db.session.commit()
+        db.session.commit()
 
     print("DONE")
 

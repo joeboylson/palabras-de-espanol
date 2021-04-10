@@ -27,9 +27,6 @@ def get_user_by_email(email):
 def create_user(name, email, password):
 
     words = Words.query.order_by(Words.id).all()
-    print(words)
-    for word in words:
-        print(word)
 
     try:
         new_user = User(email=email, name=name, password=generate_password_hash(password, method='sha256'))
@@ -41,6 +38,5 @@ def create_user(name, email, password):
             
         db.session.commit()
     except Exception as e:
-        print('catch')
         print(e)
         return None

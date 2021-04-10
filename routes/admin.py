@@ -9,7 +9,6 @@ admin = Blueprint('admin', __name__)
 @admin.before_request
 @login_required
 def before_request():
-    print( current_user )
     if not current_user and current_user.is_admin:
         abort(401)
 

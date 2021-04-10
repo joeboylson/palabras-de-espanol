@@ -8,8 +8,6 @@ from flask_login import LoginManager
 from routes import unprotected, protected, admin
 from datastore import User, db, init_db
 
-DOWNLOAD_DIRECTORY = "static/images"
-DIST_DIRECTORY = "dist"
 IS_PRODUCTION = os.environ.get('NODE_ENV') == 'production'
 DEBUG = True if not IS_PRODUCTION else False
 PORT = 5000 if not IS_PRODUCTION else os.environ.get('PORT')
@@ -22,9 +20,12 @@ class FlaskApp(Flask):
             init_db()    
         super(FlaskApp, self).run(host=host, port=port, debug=debug, load_dotenv=load_dotenv, **options)
 
-app = FlaskApp(__name__)
+app = FlaskApp(__name__, static_folder='./build', static_url_path='/')
 app.config['SECRET_KEY'] = SECRET_KEY
 app.config['SQLALCHEMY_DATABASE_URI'] = DATABASE_URL
+
+build_folder = Blueprint('build', __name__, static_url_path='', static_folder='build')
+app.register_blueprint(build_folder)
 
 app.register_blueprint(protected)
 app.register_blueprint(unprotected)
