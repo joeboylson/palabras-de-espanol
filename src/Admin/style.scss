@@ -1,0 +1,11 @@
+#words-list {
+
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+
+    .word {
+        display: grid;
+        grid-template-columns: 36px 1fr 1fr;
+    }
+}

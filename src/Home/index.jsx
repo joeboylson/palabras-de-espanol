@@ -1,24 +1,23 @@
-import { useForm } from "react-hook-form";
-import { Redirect } from "react-router";
-import { usePost, useRequest } from "../utils/request";
+import { useState } from "react";
 
-const objectToFormData = (object) => {
-    const formData = new FormData();
-    Object.keys(object).forEach(key => formData.append(key, object[key]));
-    return formData;
-}
+// utils
+import { random } from 'lodash';
+
+// components
+import AnswerResult from "../AnswerResult";
+import Question from "../Question";
 
 const Home = () => {
 
-    const {loading, data} = useRequest('/profile')
+  const [answerResult, setAnswerResult] = useState(null);  
+  const [showSpanish, setShowSpanish] = useState(true);
 
-    if (loading) return <p>loading . . .</p>
-  
-    return (
-      <div>
-          { JSON.stringify(data.profile) }
-      </div>
-    );
-  }
+  const _showSpanish = random(0, 10) > 5
+
+  const props = {answerResult, setAnswerResult, showSpanish: _showSpanish, setShowSpanish}
+  if (answerResult) return <AnswerResult {...props}/>;
+  return <Question {...props}/>
+
+}
 
 export default Home;

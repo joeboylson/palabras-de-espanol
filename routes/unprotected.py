@@ -1,6 +1,6 @@
 import json
 
-from flask import Blueprint, render_template, request
+from flask import Blueprint, request
 from flask_login import login_user, current_user
 from datastore import get_user_by_email, create_user
 from werkzeug.security import check_password_hash
@@ -40,9 +40,9 @@ def register():
 
     success = create_user(name, email, password)
     if success:
-        return json.dumps({ "success": False, "message": "failed to register" });
+        return json.dumps({ "success": True, "message": "succesfully registered" });
 
-    return json.dumps({ "success": True, "message": "succesfully registered" });
+    return json.dumps({ "success": False, "message": "failed to register" });
 
 
 @unprotected.route('/user_is_authorized')

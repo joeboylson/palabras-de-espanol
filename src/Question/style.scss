@@ -1,0 +1,10 @@
+#question {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+
+    #question-header {
+        display: flex;
+        gap: 12px;
+    }
+}

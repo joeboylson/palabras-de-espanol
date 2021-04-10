@@ -1,0 +1,14 @@
+.input {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+
+    input {
+        flex: 0 0 calc(100% - 16px);
+    }
+
+    .accent-button {
+        width: 48px;
+        height: 48px;
+    }
+}

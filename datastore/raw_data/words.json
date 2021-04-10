@@ -1,0 +1,9835 @@
+[{
+    "english": [
+      "his",
+      "her",
+      "your",
+      "their"
+    ],
+    "id": 3,
+    "score": 10681.170672466227,
+    "spanish": [
+      "su"
+    ]
+  },
+  {
+    "english": [
+      "that",
+      "which",
+      "than",
+      "who"
+    ],
+    "id": 4,
+    "score": 10681.170672466227,
+    "spanish": [
+      "que"
+    ]
+  },
+  {
+    "english": [
+      "was",
+      "I was",
+      "he was",
+      "she was"
+    ],
+    "id": 6,
+    "score": 3332.796694401147,
+    "spanish": [
+      "era"
+    ]
+  },
+  {
+    "english": [
+      "for"
+    ],
+    "id": 7,
+    "score": 10681.170672466227,
+    "spanish": [
+      "para"
+    ]
+  },
+  {
+    "english": [
+      "are",
+      "they are"
+    ],
+    "id": 9,
+    "score": 10681.170672466227,
+    "spanish": [
+      "son"
+    ]
+  },
+  {
+    "english": [
+      "with"
+    ],
+    "id": 10,
+    "score": 10681.170672466227,
+    "spanish": [
+      "con"
+    ]
+  },
+  {
+    "english": [
+      "be",
+      "to be"
+    ],
+    "id": 12,
+    "score": 10681.170672466227,
+    "spanish": [
+      "ser"
+    ]
+  },
+  {
+    "english": [
+      "at",
+      "in",
+      "on"
+    ],
+    "id": 13,
+    "score": 10681.170672466227,
+    "spanish": [
+      "en"
+    ]
+  },
+  {
+    "english": [
+      "one"
+    ],
+    "id": 14,
+    "score": 10681.170672466227,
+    "spanish": [
+      "uno"
+    ],
+    "to_spanish_tip": "the number"
+  },
+  {
+    "english": [
+      "have",
+      "to have"
+    ],
+    "id": 15,
+    "score": 3332.796694401147,
+    "spanish": [
+      "tener"
+    ]
+  },
+  {
+    "english": [
+      "this"
+    ],
+    "id": 16,
+    "score": 10681.170672466227,
+    "spanish": [
+      "este"
+    ]
+  },
+  {
+    "english": [
+      "from"
+    ],
+    "id": 17,
+    "score": 10681.170672466227,
+    "spanish": [
+      "desde"
+    ]
+  },
+  {
+    "english": [
+      "by"
+    ],
+    "id": 18,
+    "score": 1393.1366498605205,
+    "spanish": [
+      "por"
+    ]
+  },
+  {
+    "english": [
+      "hot"
+    ],
+    "id": 19,
+    "score": 10681.170672466227,
+    "spanish": [
+      "caliente"
+    ]
+  },
+  {
+    "english": [
+      "word"
+    ],
+    "id": 20,
+    "score": 10681.170672466227,
+    "spanish": [
+      "palabra"
+    ]
+  },
+  {
+    "english": [
+      "but"
+    ],
+    "id": 21,
+    "score": 10681.170672466227,
+    "spanish": [
+      "pero"
+    ]
+  },
+  {
+    "english": [
+      "what"
+    ],
+    "id": 22,
+    "score": 10681.170672466227,
+    "spanish": [
+      "qu\u00e9"
+    ]
+  },
+  {
+    "english": [
+      "some"
+    ],
+    "id": 23,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "algunos"
+    ]
+  },
+  {
+    "english": [
+      "is"
+    ],
+    "id": 24,
+    "score": 10681.170672466227,
+    "spanish": [
+      "es"
+    ]
+  },
+  {
+    "english": [
+      "it"
+    ],
+    "id": 25,
+    "score": 10681.170672466227,
+    "spanish": [
+      "lo"
+    ]
+  },
+  {
+    "english": [
+      "you"
+    ],
+    "id": 26,
+    "score": 10681.170672466227,
+    "spanish": [
+      "usted",
+      "tú"
+    ]
+  },
+  {
+    "english": [
+      "or"
+    ],
+    "id": 27,
+    "score": 10681.170672466227,
+    "spanish": [
+      "o"
+    ]
+  },
+  {
+    "english": [
+      "had",
+      "have had"
+    ],
+    "id": 28,
+    "score": 3332.796694401147,
+    "spanish": [
+      "tenido"
+    ],
+    "to_english_tip": "in the indicative case"
+  },
+  {
+    "english": [
+      "the"
+    ],
+    "id": 29,
+    "score": 10681.170672466227,
+    "spanish": [
+      "la",
+      "el"
+    ],
+    "to_spanish_tip": "feminine"
+  },
+  {
+    "english": [
+      "of"
+    ],
+    "id": 30,
+    "score": 1393.1366498605205,
+    "spanish": [
+      "de"
+    ]
+  },
+  {
+    "english": [
+      "to"
+    ],
+    "id": 31,
+    "score": 10681.170672466227,
+    "spanish": [
+      "a"
+    ]
+  },
+  {
+    "english": [
+      "and"
+    ],
+    "id": 32,
+    "score": 10681.170672466227,
+    "spanish": [
+      "y"
+    ]
+  },
+  {
+    "english": [
+      "a",
+      "an"
+    ],
+    "id": 33,
+    "score": 10681.170672466227,
+    "spanish": [
+      "un",
+      "una"
+    ]
+  },
+  {
+    "english": [
+      "we"
+    ],
+    "id": 35,
+    "score": 10681.170672466227,
+    "spanish": [
+      "nos"
+    ]
+  },
+  {
+    "english": [
+      "can"
+    ],
+    "id": 36,
+    "score": 10681.170672466227,
+    "spanish": [
+      "lata"
+    ],
+    "to_spanish_tip": "as in the container"
+  },
+  {
+    "english": [
+      "out",
+      "outside",
+      "off"
+    ],
+    "id": 37,
+    "score": 10681.170672466227,
+    "spanish": [
+      "fuera"
+    ]
+  },
+  {
+    "english": [
+      "other"
+    ],
+    "id": 38,
+    "score": 10681.170672466227,
+    "spanish": [
+      "otros"
+    ]
+  },
+  {
+    "english": [
+      "were",
+      "they were"
+    ],
+    "id": 39,
+    "score": 10681.170672466227,
+    "spanish": [
+      "eran"
+    ]
+  },
+  {
+    "english": [
+      "time"
+    ],
+    "id": 43,
+    "score": 10681.170672466227,
+    "spanish": [
+      "tiempo"
+    ]
+  },
+  {
+    "english": [
+      "if",
+      "whether"
+    ],
+    "id": 44,
+    "score": 10681.170672466227,
+    "spanish": [
+      "si"
+    ],
+    "to_english_tip": "notice no accent"
+  },
+  {
+    "english": [
+      "will",
+      "it will"
+    ],
+    "id": 45,
+    "score": 1393.1366498605205,
+    "spanish": [
+      "lo har\u00e1"
+    ]
+  },
+  {
+    "english": [
+      "how"
+    ],
+    "id": 46,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "c\u00f3mo"
+    ],
+    "to_english_tip": "notice accent"
+  },
+  {
+    "english": [
+      "said",
+      "told"
+    ],
+    "id": 47,
+    "score": 1393.1366498605205,
+    "spanish": [
+      "dicho"
+    ],
+    "to_english_tip": "in perfect tense"
+  },
+  {
+    "english": [
+      "tell",
+      "say",
+      "to tell",
+      "to say"
+    ],
+    "id": 50,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "decir"
+    ]
+  },
+  {
+    "english": [
+      "does",
+      "he does",
+      "she does"
+    ],
+    "id": 51,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "hace"
+    ]
+  },
+  {
+    "english": [
+      "set"
+    ],
+    "id": 52,
+    "score": 10681.170672466227,
+    "spanish": [
+      "conjunto"
+    ],
+    "to_spanish_tip": "noun"
+  },
+  {
+    "english": [
+      "three"
+    ],
+    "id": 53,
+    "score": 10681.170672466227,
+    "spanish": [
+      "tres"
+    ]
+  },
+  {
+    "english": [
+      "want",
+      "to want"
+    ],
+    "id": 54,
+    "score": 10681.170672466227,
+    "spanish": [
+      "querer"
+    ]
+  },
+  {
+    "english": [
+      "air"
+    ],
+    "id": 55,
+    "score": 10681.170672466227,
+    "spanish": [
+      "aire"
+    ]
+  },
+  {
+    "english": [
+      "also"
+    ],
+    "id": 57,
+    "score": 10681.170672466227,
+    "spanish": [
+      "tambi\u00e9n"
+    ]
+  },
+  {
+    "english": [
+      "play",
+      "to play"
+    ],
+    "id": 58,
+    "score": 10681.170672466227,
+    "spanish": [
+      "jugar"
+    ]
+  },
+  {
+    "english": [
+      "small"
+    ],
+    "id": 59,
+    "score": 10681.170672466227,
+    "spanish": [
+      "peque\u00f1o"
+    ]
+  },
+  {
+    "english": [
+      "end"
+    ],
+    "id": 60,
+    "score": 10681.170672466227,
+    "spanish": [
+      "fin"
+    ]
+  },
+  {
+    "english": [
+      "put",
+      "to put"
+    ],
+    "id": 61,
+    "score": 10681.170672466227,
+    "spanish": [
+      "poner"
+    ]
+  },
+  {
+    "english": [
+      "home",
+      "house"
+    ],
+    "id": 62,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "casa"
+    ]
+  },
+  {
+    "english": [
+      "read",
+      "to read"
+    ],
+    "id": 63,
+    "score": 10681.170672466227,
+    "spanish": [
+      "leer"
+    ]
+  },
+  {
+    "english": [
+      "hand"
+    ],
+    "id": 64,
+    "score": 10681.170672466227,
+    "spanish": [
+      "mano"
+    ]
+  },
+  {
+    "english": [
+      "port"
+    ],
+    "id": 65,
+    "score": 10681.170672466227,
+    "spanish": [
+      "puerto"
+    ]
+  },
+  {
+    "english": [
+      "large",
+      "big"
+    ],
+    "id": 66,
+    "score": 10681.170672466227,
+    "spanish": [
+      "grande"
+    ]
+  },
+  {
+    "english": [
+      "spell",
+      "to spell"
+    ],
+    "id": 67,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "deletrear"
+    ]
+  },
+  {
+    "english": [
+      "add",
+      "to add"
+    ],
+    "id": 68,
+    "score": 10681.170672466227,
+    "spanish": [
+      "a\u00f1adir"
+    ]
+  },
+  {
+    "english": [
+      "even"
+    ],
+    "id": 69,
+    "score": 10681.170672466227,
+    "spanish": [
+      "incluso"
+    ]
+  },
+  {
+    "english": [
+      "land",
+      "earth"
+    ],
+    "id": 70,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "tierra"
+    ]
+  },
+  {
+    "english": [
+      "here"
+    ],
+    "id": 71,
+    "score": 10681.170672466227,
+    "spanish": [
+      "aqu\u00ed"
+    ]
+  },
+  {
+    "english": [
+      "must"
+    ],
+    "id": 72,
+    "score": 10681.170672466227,
+    "spanish": [
+      "debe"
+    ]
+  },
+  {
+    "english": [
+      "high",
+      "tall"
+    ],
+    "id": 74,
+    "score": 10681.170672466227,
+    "spanish": [
+      "alto"
+    ]
+  },
+  {
+    "english": [
+      "such"
+    ],
+    "id": 75,
+    "score": 10681.170672466227,
+    "spanish": [
+      "tal"
+    ]
+  },
+  {
+    "english": [
+      "to follow"
+    ],
+    "id": 76,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "siguir"
+    ]
+  },
+  {
+    "english": [
+      "act"
+    ],
+    "id": 77,
+    "score": 10681.170672466227,
+    "spanish": [
+      "acto"
+    ]
+  },
+  {
+    "english": [
+      "why"
+    ],
+    "id": 78,
+    "score": 10681.170672466227,
+    "spanish": [
+      "por qu\u00e9"
+    ]
+  },
+  {
+    "english": [
+      "ask",
+      "to ask"
+    ],
+    "id": 79,
+    "score": 10681.170672466227,
+    "spanish": [
+      "preguntar"
+    ]
+  },
+  {
+    "english": [
+      "men"
+    ],
+    "id": 80,
+    "score": 10681.170672466227,
+    "spanish": [
+      "hombres"
+    ]
+  },
+  {
+    "english": [
+      "change"
+    ],
+    "id": 81,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "cambio"
+    ]
+  },
+  {
+    "english": [
+      "he went",
+      "he went away"
+    ],
+    "id": 82,
+    "score": 10681.170672466227,
+    "spanish": [
+      "se fue"
+    ]
+  },
+  {
+    "english": [
+      "light"
+    ],
+    "id": 83,
+    "score": 10681.170672466227,
+    "spanish": [
+      "luz"
+    ]
+  },
+  {
+    "english": [
+      "kind",
+      "type"
+    ],
+    "id": 84,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "tipo"
+    ]
+  },
+  {
+    "english": [
+      "will need",
+      "he will need"
+    ],
+    "id": 86,
+    "score": 10681.170672466227,
+    "spanish": [
+      "necesitar\u00e1"
+    ]
+  },
+  {
+    "english": [
+      "house"
+    ],
+    "id": 87,
+    "score": 5,
+    "spanish": [
+      "casa"
+    ]
+  },
+  {
+    "english": [
+      "picture"
+    ],
+    "id": 88,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "imagen"
+    ]
+  },
+  {
+    "english": [
+      "try",
+      "to try"
+    ],
+    "id": 89,
+    "score": 10681.170672466227,
+    "spanish": [
+      "tratar"
+    ]
+  },
+  {
+    "english": [
+      "us"
+    ],
+    "id": 90,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "nosotros"
+    ]
+  },
+  {
+    "english": [
+      "again"
+    ],
+    "id": 91,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "de nuevo"
+    ]
+  },
+  {
+    "english": [
+      "animal"
+    ],
+    "id": 92,
+    "score": 10681.170672466227,
+    "spanish": [
+      "animal"
+    ]
+  },
+  {
+    "english": [
+      "point"
+    ],
+    "id": 93,
+    "score": 10681.170672466227,
+    "spanish": [
+      "punto"
+    ]
+  },
+  {
+    "english": [
+      "mother"
+    ],
+    "id": 94,
+    "score": 10681.170672466227,
+    "spanish": [
+      "madre"
+    ]
+  },
+  {
+    "english": [
+      "world"
+    ],
+    "id": 95,
+    "score": 10681.170672466227,
+    "spanish": [
+      "mundo"
+    ]
+  },
+  {
+    "english": [
+      "near"
+    ],
+    "id": 96,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "cerca"
+    ]
+  },
+  {
+    "english": [
+      "build",
+      "construct",
+      "to build",
+      "to construct"
+    ],
+    "id": 97,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "construir"
+    ]
+  },
+  {
+    "english": [
+      "self"
+    ],
+    "id": 98,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "auto"
+    ]
+  },
+  {
+    "english": [
+      "father"
+    ],
+    "id": 100,
+    "score": 10681.170672466227,
+    "spanish": [
+      "padre"
+    ]
+  },
+  {
+    "english": [
+      "any"
+    ],
+    "id": 101,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "cualquier"
+    ]
+  },
+  {
+    "english": [
+      "new"
+    ],
+    "id": 102,
+    "score": 10681.170672466227,
+    "spanish": [
+      "nuevo"
+    ]
+  },
+  {
+    "english": [
+      "work"
+    ],
+    "id": 103,
+    "score": 10681.170672466227,
+    "spanish": [
+      "trabajo"
+    ]
+  },
+  {
+    "english": [
+      "part"
+    ],
+    "id": 104,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "parte"
+    ]
+  },
+  {
+    "english": [
+      "take",
+      "to take"
+    ],
+    "id": 105,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "tomar"
+    ]
+  },
+  {
+    "english": [
+      "get",
+      "to get"
+    ],
+    "id": 106,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "conseguir"
+    ]
+  },
+  {
+    "english": [
+      "place"
+    ],
+    "id": 107,
+    "score": 10681.170672466227,
+    "spanish": [
+      "lugar"
+    ],
+    "to_english_tip": "noun",
+    "to_spanish_tip": "noun"
+  },
+  {
+    "english": [
+      "made",
+      "fact"
+    ],
+    "id": 108,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "hecho"
+    ]
+  },
+  {
+    "english": [
+      "live",
+      "to live"
+    ],
+    "id": 109,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "vivir"
+    ]
+  },
+  {
+    "english": [
+      "where"
+    ],
+    "id": 110,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "donde"
+    ]
+  },
+  {
+    "english": [
+      "after"
+    ],
+    "id": 111,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "despu\u00e9s"
+    ]
+  },
+  {
+    "english": [
+      "back"
+    ],
+    "id": 112,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "espalda"
+    ]
+  },
+  {
+    "english": [
+      "little"
+    ],
+    "id": 113,
+    "score": 10681.170672466227,
+    "spanish": [
+      "poco"
+    ]
+  },
+  {
+    "english": [
+      "round"
+    ],
+    "id": 115,
+    "score": 10681.170672466227,
+    "spanish": [
+      "ronda"
+    ]
+  },
+  {
+    "english": [
+      "man"
+    ],
+    "id": 116,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "hombre"
+    ]
+  },
+  {
+    "english": [
+      "years"
+    ],
+    "id": 117,
+    "score": 10681.170672466227,
+    "spanish": [
+      "a\u00f1os"
+    ]
+  },
+  {
+    "english": [
+      "come",
+      "to come"
+    ],
+    "id": 118,
+    "score": 10681.170672466227,
+    "spanish": [
+      "venir"
+    ]
+  },
+  {
+    "english": [
+      "show",
+      "to show"
+    ],
+    "id": 119,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "mostrar"
+    ]
+  },
+  {
+    "english": [
+      "every",
+      "each"
+    ],
+    "id": 120,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "cada"
+    ]
+  },
+  {
+    "english": [
+      "good"
+    ],
+    "id": 121,
+    "score": 10681.170672466227,
+    "spanish": [
+      "buena",
+      "bueno"
+    ]
+  },
+  {
+    "english": [
+      "me"
+    ],
+    "id": 122,
+    "score": 10681.170672466227,
+    "spanish": [
+      "me"
+    ]
+  },
+  {
+    "english": [
+      "give",
+      "to give"
+    ],
+    "id": 123,
+    "score": 10681.170672466227,
+    "spanish": [
+      "dar"
+    ]
+  },
+  {
+    "english": [
+      "our"
+    ],
+    "id": 124,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "nuestro"
+    ]
+  },
+  {
+    "english": [
+      "name"
+    ],
+    "id": 126,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "nombre"
+    ]
+  },
+  {
+    "english": [
+      "very"
+    ],
+    "id": 127,
+    "score": 10681.170672466227,
+    "spanish": [
+      "muy"
+    ]
+  },
+  {
+    "english": [
+      "through"
+    ],
+    "id": 128,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "a trav\u00e9s de"
+    ]
+  },
+  {
+    "english": [
+      "only",
+      "just"
+    ],
+    "id": 129,
+    "score": 10681.170672466227,
+    "spanish": [
+      "s\u00f3lo"
+    ]
+  },
+  {
+    "english": [
+      "form"
+    ],
+    "id": 130,
+    "score": 10681.170672466227,
+    "spanish": [
+      "forma"
+    ]
+  },
+  {
+    "english": [
+      "sentence"
+    ],
+    "id": 131,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "frase"
+    ]
+  },
+  {
+    "english": [
+      "great"
+    ],
+    "id": 132,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "gran"
+    ]
+  },
+  {
+    "english": [
+      "think",
+      "to think"
+    ],
+    "id": 133,
+    "score": 10681.170672466227,
+    "spanish": [
+      "pensar"
+    ]
+  },
+  {
+    "english": [
+      "help",
+      "to help"
+    ],
+    "id": 135,
+    "score": 10681.170672466227,
+    "spanish": [
+      "ayudar"
+    ]
+  },
+  {
+    "english": [
+      "low",
+      "under",
+      "short"
+    ],
+    "id": 136,
+    "score": 10681.170672466227,
+    "spanish": [
+      "bajo"
+    ]
+  },
+  {
+    "english": [
+      "line"
+    ],
+    "id": 137,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "l\u00ednea"
+    ]
+  },
+  {
+    "english": [
+      "differ",
+      "to differ",
+      "to be different"
+    ],
+    "id": 138,
+    "score": 10681.170672466227,
+    "spanish": [
+      "ser distinto"
+    ]
+  },
+  {
+    "english": [
+      "in turn",
+      "at the same time",
+      "for his part"
+    ],
+    "id": 139,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "a su vez"
+    ]
+  },
+  {
+    "english": [
+      "cause"
+    ],
+    "id": 140,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "causa"
+    ]
+  },
+  {
+    "english": [
+      "mean",
+      "to mean"
+    ],
+    "id": 142,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "significar"
+    ]
+  },
+  {
+    "english": [
+      "before"
+    ],
+    "id": 143,
+    "score": 10681.170672466227,
+    "spanish": [
+      "antes"
+    ]
+  },
+  {
+    "english": [
+      "move",
+      "movement"
+    ],
+    "id": 144,
+    "score": 10681.170672466227,
+    "spanish": [
+      "movimiento"
+    ]
+  },
+  {
+    "english": [
+      "right"
+    ],
+    "id": 145,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "derecho"
+    ]
+  },
+  {
+    "english": [
+      "boy"
+    ],
+    "id": 146,
+    "score": 250.02728988598773,
+    "spanish": [
+      "ni\u00f1o"
+    ]
+  },
+  {
+    "english": [
+      "old"
+    ],
+    "id": 147,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "viejo"
+    ]
+  },
+  {
+    "english": [
+      "too"
+    ],
+    "id": 148,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "demasiado"
+    ]
+  },
+  {
+    "english": [
+      "same"
+    ],
+    "id": 149,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "misma"
+    ]
+  },
+  {
+    "english": [
+      "she"
+    ],
+    "id": 150,
+    "score": 250.02728988598773,
+    "spanish": [
+      "ella"
+    ]
+  },
+  {
+    "english": [
+      "all"
+    ],
+    "id": 151,
+    "score": 250.02728988598773,
+    "spanish": [
+      "todo"
+    ]
+  },
+  {
+    "english": [
+      "there"
+    ],
+    "id": 152,
+    "score": 250.02728988598773,
+    "spanish": [
+      "hay"
+    ]
+  },
+  {
+    "english": [
+      "when"
+    ],
+    "id": 153,
+    "score": 250.02728988598773,
+    "spanish": [
+      "cuando"
+    ]
+  },
+  {
+    "english": [
+      "up",
+      "until"
+    ],
+    "id": 154,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "hasta"
+    ]
+  },
+  {
+    "english": [
+      "use"
+    ],
+    "id": 155,
+    "score": 250.02728988598773,
+    "spanish": [
+      "uso"
+    ],
+    "to_english_tip": "noun",
+    "to_spanish_tip": "noun"
+  },
+  {
+    "english": [
+      "way",
+      "road"
+    ],
+    "id": 157,
+    "score": 250.02728988598773,
+    "spanish": [
+      "camino"
+    ]
+  },
+  {
+    "english": [
+      "about"
+    ],
+    "id": 158,
+    "score": 250.02728988598773,
+    "spanish": [
+      "acerca",
+      "acerca de"
+    ]
+  },
+  {
+    "english": [
+      "many"
+    ],
+    "id": 159,
+    "score": 93.92321286789112,
+    "spanish": [
+      "muchos"
+    ]
+  },
+  {
+    "english": [
+      "then"
+    ],
+    "id": 160,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "entonces"
+    ]
+  },
+  {
+    "english": [
+      "them",
+      "they"
+    ],
+    "id": 161,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "ellos"
+    ]
+  },
+  {
+    "english": [
+      "write",
+      "to write"
+    ],
+    "id": 162,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "escribir"
+    ]
+  },
+  {
+    "english": [
+      "would"
+    ],
+    "id": 163,
+    "score": 93.92321286789112,
+    "spanish": [
+      "har\u00eda"
+    ]
+  },
+  {
+    "english": [
+      "like",
+      "as"
+    ],
+    "id": 164,
+    "score": 250.02728988598773,
+    "spanish": [
+      "como"
+    ]
+  },
+  {
+    "english": [
+      "so",
+      "this way",
+      "that way"
+    ],
+    "id": 165,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "as\u00ed"
+    ]
+  },
+  {
+    "english": [
+      "these"
+    ],
+    "id": 166,
+    "score": 250.02728988598773,
+    "spanish": [
+      "\u00e9stos"
+    ]
+  },
+  {
+    "english": [
+      "long"
+    ],
+    "id": 168,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "largo"
+    ]
+  },
+  {
+    "english": [
+      "do",
+      "make",
+      "to do",
+      "to make"
+    ],
+    "id": 169,
+    "score": 250.02728988598773,
+    "spanish": [
+      "hacer"
+    ]
+  },
+  {
+    "english": [
+      "thing"
+    ],
+    "id": 170,
+    "score": 250.02728988598773,
+    "spanish": [
+      "cosa"
+    ]
+  },
+  {
+    "english": [
+      "see",
+      "watch",
+      "to see",
+      "to watch"
+    ],
+    "id": 171,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "ver"
+    ]
+  },
+  {
+    "english": [
+      "him",
+      "he"
+    ],
+    "id": 172,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "\u00e9l"
+    ]
+  },
+  {
+    "english": [
+      "two"
+    ],
+    "id": 173,
+    "score": 250.02728988598773,
+    "spanish": [
+      "dos"
+    ]
+  },
+  {
+    "english": [
+      "he has",
+      "she has"
+    ],
+    "id": 174,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "tiene"
+    ]
+  },
+  {
+    "english": [
+      "look",
+      "look for",
+      "search",
+      "to search"
+    ],
+    "id": 175,
+    "score": 2061.8569908951376,
+    "spanish": [
+      "buscar"
+    ]
+  },
+  {
+    "english": [
+      "day"
+    ],
+    "id": 177,
+    "score": 250.02728988598773,
+    "spanish": [
+      "d\u00eda"
+    ]
+  },
+  {
+    "english": [
+      "could"
+    ],
+    "id": 178,
+    "score": 5,
+    "spanish": [
+      "pod\u00eda"
+    ]
+  },
+  {
+    "english": [
+      "go",
+      "to go"
+    ],
+    "id": 179,
+    "score": 250.02728988598773,
+    "spanish": [
+      "ir"
+    ]
+  },
+  {
+    "english": [
+      "he did",
+      "she did"
+    ],
+    "id": 181,
+    "score": 93.92321286789112,
+    "spanish": [
+      "hizo"
+    ],
+    "to_english_tip": "preterite",
+    "to_spanish_tip": "preterite"
+  },
+  {
+    "english": [
+      "number"
+    ],
+    "id": 182,
+    "score": 250.02728988598773,
+    "spanish": [
+      "n\u00famero"
+    ]
+  },
+  {
+    "english": [
+      "sound",
+      "ring",
+      "to ring",
+      "to sound"
+    ],
+    "id": 183,
+    "score": 93.92321286789112,
+    "spanish": [
+      "sonar"
+    ]
+  },
+  {
+    "english": [
+      "no"
+    ],
+    "id": 184,
+    "score": 250.02728988598773,
+    "spanish": [
+      "no"
+    ]
+  },
+  {
+    "english": [
+      "most",
+      "more"
+    ],
+    "id": 185,
+    "score": 250.02728988598773,
+    "spanish": [
+      "m\u00e1s"
+    ]
+  },
+  {
+    "english": [
+      "people"
+    ],
+    "id": 186,
+    "score": 93.92321286789112,
+    "spanish": [
+      "personas"
+    ]
+  },
+  {
+    "english": [
+      "my"
+    ],
+    "id": 187,
+    "score": 250.02728988598773,
+    "spanish": [
+      "mi"
+    ]
+  },
+  {
+    "english": [
+      "over"
+    ],
+    "id": 188,
+    "score": 93.92321286789112,
+    "spanish": [
+      "sobre"
+    ]
+  },
+  {
+    "english": [
+      "know",
+      "to know"
+    ],
+    "id": 189,
+    "score": 93.92321286789112,
+    "spanish": [
+      "saber"
+    ]
+  },
+  {
+    "english": [
+      "water"
+    ],
+    "id": 190,
+    "score": 250.02728988598773,
+    "spanish": [
+      "agua"
+    ]
+  },
+  {
+    "english": [
+      "call"
+    ],
+    "id": 192,
+    "score": 250.02728988598773,
+    "spanish": [
+      "llamada"
+    ]
+  },
+  {
+    "english": [
+      "first"
+    ],
+    "id": 193,
+    "score": 26.753059805498836,
+    "spanish": [
+      "primero"
+    ]
+  },
+  {
+    "english": [
+      "may",
+      "can"
+    ],
+    "id": 195,
+    "score": 93.92321286789112,
+    "spanish": [
+      "puede"
+    ]
+  },
+  {
+    "english": [
+      "down"
+    ],
+    "id": 196,
+    "score": 93.92321286789112,
+    "spanish": [
+      "abajo"
+    ]
+  },
+  {
+    "english": [
+      "side"
+    ],
+    "id": 197,
+    "score": 5,
+    "spanish": [
+      "lado"
+    ]
+  },
+  {
+    "english": [
+      "been",
+      "have been",
+      "state"
+    ],
+    "id": 198,
+    "score": 14.937214146748707,
+    "spanish": [
+      "estado"
+    ]
+  },
+  {
+    "english": [
+      "now"
+    ],
+    "id": 199,
+    "score": 93.92321286789112,
+    "spanish": [
+      "ahora"
+    ]
+  },
+  {
+    "english": [
+      "find",
+      "to find"
+    ],
+    "id": 200,
+    "score": 14.937214146748707,
+    "spanish": [
+      "encontrar"
+    ]
+  },
+  {
+    "english": [
+      "head"
+    ],
+    "id": 201,
+    "score": 14.937214146748707,
+    "spanish": [
+      "cabeza"
+    ]
+  },
+  {
+    "english": [
+      "stand"
+    ],
+    "id": 202,
+    "score": 14.937214146748707,
+    "spanish": [
+      "de pie"
+    ]
+  },
+  {
+    "english": [
+      "own"
+    ],
+    "id": 203,
+    "score": 0,
+    "spanish": [
+      "propio"
+    ]
+  },
+  {
+    "english": [
+      "page"
+    ],
+    "id": 204,
+    "score": 0,
+    "spanish": [
+      "p\u00e1gina"
+    ]
+  },
+  {
+    "english": [
+      "should"
+    ],
+    "id": 205,
+    "score": 0,
+    "spanish": [
+      "deber\u00eda"
+    ]
+  },
+  {
+    "english": [
+      "country"
+    ],
+    "id": 206,
+    "score": 0,
+    "spanish": [
+      "pa\u00eds"
+    ]
+  },
+  {
+    "english": [
+      "found"
+    ],
+    "id": 207,
+    "score": 0,
+    "spanish": [
+      "encontrado"
+    ]
+  },
+  {
+    "english": [
+      "answer"
+    ],
+    "id": 208,
+    "score": 0,
+    "spanish": [
+      "respuesta"
+    ]
+  },
+  {
+    "english": [
+      "school"
+    ],
+    "id": 209,
+    "score": 0,
+    "spanish": [
+      "escuela"
+    ]
+  },
+  {
+    "english": [
+      "grow"
+    ],
+    "id": 210,
+    "score": 0,
+    "spanish": [
+      "crecer"
+    ]
+  },
+  {
+    "english": [
+      "study"
+    ],
+    "id": 211,
+    "score": 0,
+    "spanish": [
+      "estudio"
+    ]
+  },
+  {
+    "english": [
+      "still"
+    ],
+    "id": 212,
+    "score": 0,
+    "spanish": [
+      "todav\u00eda"
+    ]
+  },
+  {
+    "english": [
+      "learn"
+    ],
+    "id": 213,
+    "score": 0,
+    "spanish": [
+      "aprender"
+    ]
+  },
+  {
+    "english": [
+      "plant"
+    ],
+    "id": 214,
+    "score": 0,
+    "spanish": [
+      "planta"
+    ]
+  },
+  {
+    "english": [
+      "cover"
+    ],
+    "id": 215,
+    "score": 0,
+    "spanish": [
+      "cubierta"
+    ]
+  },
+  {
+    "english": [
+      "food"
+    ],
+    "id": 216,
+    "score": 0,
+    "spanish": [
+      "alimentos"
+    ]
+  },
+  {
+    "english": [
+      "sun"
+    ],
+    "id": 217,
+    "score": 0,
+    "spanish": [
+      "sol"
+    ]
+  },
+  {
+    "english": [
+      "four"
+    ],
+    "id": 218,
+    "score": 0,
+    "spanish": [
+      "cuatro"
+    ]
+  },
+  {
+    "english": [
+      "between"
+    ],
+    "id": 219,
+    "score": 0,
+    "spanish": [
+      "entre"
+    ]
+  },
+  {
+    "english": [
+      "state"
+    ],
+    "id": 220,
+    "score": 0,
+    "spanish": [
+      "estado"
+    ]
+  },
+  {
+    "english": [
+      "keep"
+    ],
+    "id": 221,
+    "score": 0,
+    "spanish": [
+      "mantener"
+    ]
+  },
+  {
+    "english": [
+      "eye"
+    ],
+    "id": 222,
+    "score": 0,
+    "spanish": [
+      "ojo"
+    ]
+  },
+  {
+    "english": [
+      "never"
+    ],
+    "id": 223,
+    "score": 0,
+    "spanish": [
+      "nunca"
+    ]
+  },
+  {
+    "english": [
+      "last"
+    ],
+    "id": 224,
+    "score": 0,
+    "spanish": [
+      "\u00faltimo"
+    ]
+  },
+  {
+    "english": [
+      "let"
+    ],
+    "id": 225,
+    "score": 0,
+    "spanish": [
+      "dejar"
+    ]
+  },
+  {
+    "english": [
+      "thought"
+    ],
+    "id": 226,
+    "score": 0,
+    "spanish": [
+      "pensado"
+    ]
+  },
+  {
+    "english": [
+      "city"
+    ],
+    "id": 227,
+    "score": 0,
+    "spanish": [
+      "ciudad"
+    ]
+  },
+  {
+    "english": [
+      "tree"
+    ],
+    "id": 228,
+    "score": 0,
+    "spanish": [
+      "\u00e1rbol"
+    ]
+  },
+  {
+    "english": [
+      "cross"
+    ],
+    "id": 229,
+    "score": 0,
+    "spanish": [
+      "cruzar"
+    ]
+  },
+  {
+    "english": [
+      "farm"
+    ],
+    "id": 230,
+    "score": 0,
+    "spanish": [
+      "granja"
+    ]
+  },
+  {
+    "english": [
+      "hard"
+    ],
+    "id": 231,
+    "score": 0,
+    "spanish": [
+      "duro"
+    ]
+  },
+  {
+    "english": [
+      "start"
+    ],
+    "id": 232,
+    "score": 0,
+    "spanish": [
+      "inicio"
+    ]
+  },
+  {
+    "english": [
+      "might"
+    ],
+    "id": 233,
+    "score": 0,
+    "spanish": [
+      "podr\u00eda"
+    ]
+  },
+  {
+    "english": [
+      "story"
+    ],
+    "id": 234,
+    "score": 0,
+    "spanish": [
+      "historia"
+    ]
+  },
+  {
+    "english": [
+      "saw"
+    ],
+    "id": 235,
+    "score": 0,
+    "spanish": [
+      "sierra"
+    ]
+  },
+  {
+    "english": [
+      "far"
+    ],
+    "id": 236,
+    "score": 0,
+    "spanish": [
+      "ahora"
+    ]
+  },
+  {
+    "english": [
+      "sea"
+    ],
+    "id": 237,
+    "score": 0,
+    "spanish": [
+      "mar"
+    ]
+  },
+  {
+    "english": [
+      "draw"
+    ],
+    "id": 238,
+    "score": 0,
+    "spanish": [
+      "dibujar"
+    ]
+  },
+  {
+    "english": [
+      "left"
+    ],
+    "id": 239,
+    "score": 0,
+    "spanish": [
+      "izquierda"
+    ]
+  },
+  {
+    "english": [
+      "late"
+    ],
+    "id": 240,
+    "score": 0,
+    "spanish": [
+      "tarde"
+    ]
+  },
+  {
+    "english": [
+      "run"
+    ],
+    "id": 241,
+    "score": 0,
+    "spanish": [
+      "ejecutar"
+    ]
+  },
+  {
+    "english": [
+      "don\u2019t"
+    ],
+    "id": 242,
+    "score": 0,
+    "spanish": [
+      "no"
+    ]
+  },
+  {
+    "english": [
+      "while"
+    ],
+    "id": 243,
+    "score": 0,
+    "spanish": [
+      "mientras"
+    ]
+  },
+  {
+    "english": [
+      "press"
+    ],
+    "id": 244,
+    "score": 0,
+    "spanish": [
+      "prensa"
+    ]
+  },
+  {
+    "english": [
+      "close"
+    ],
+    "id": 245,
+    "score": 0,
+    "spanish": [
+      "Cerrar"
+    ]
+  },
+  {
+    "english": [
+      "night"
+    ],
+    "id": 246,
+    "score": 0,
+    "spanish": [
+      "noche"
+    ]
+  },
+  {
+    "english": [
+      "real"
+    ],
+    "id": 247,
+    "score": 0,
+    "spanish": [
+      "reales"
+    ]
+  },
+  {
+    "english": [
+      "life"
+    ],
+    "id": 248,
+    "score": 0,
+    "spanish": [
+      "vida"
+    ]
+  },
+  {
+    "english": [
+      "few"
+    ],
+    "id": 249,
+    "score": 0,
+    "spanish": [
+      "pocos"
+    ]
+  },
+  {
+    "english": [
+      "north"
+    ],
+    "id": 250,
+    "score": 0,
+    "spanish": [
+      "norte"
+    ]
+  },
+  {
+    "english": [
+      "book"
+    ],
+    "id": 251,
+    "score": 0,
+    "spanish": [
+      "libro"
+    ]
+  },
+  {
+    "english": [
+      "carry"
+    ],
+    "id": 252,
+    "score": 0,
+    "spanish": [
+      "llevar"
+    ]
+  },
+  {
+    "english": [
+      "took"
+    ],
+    "id": 253,
+    "score": 0,
+    "spanish": [
+      "tom\u00f3"
+    ]
+  },
+  {
+    "english": [
+      "science"
+    ],
+    "id": 254,
+    "score": 0,
+    "spanish": [
+      "ciencia"
+    ]
+  },
+  {
+    "english": [
+      "eat"
+    ],
+    "id": 255,
+    "score": 0,
+    "spanish": [
+      "comer"
+    ]
+  },
+  {
+    "english": [
+      "room"
+    ],
+    "id": 256,
+    "score": 0,
+    "spanish": [
+      "habitaci\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "friend"
+    ],
+    "id": 257,
+    "score": 0,
+    "spanish": [
+      "amigo"
+    ]
+  },
+  {
+    "english": [
+      "began"
+    ],
+    "id": 258,
+    "score": 0,
+    "spanish": [
+      "comenz\u00f3"
+    ]
+  },
+  {
+    "english": [
+      "idea"
+    ],
+    "id": 259,
+    "score": 0,
+    "spanish": [
+      "gusta"
+    ]
+  },
+  {
+    "english": [
+      "fish"
+    ],
+    "id": 260,
+    "score": 0,
+    "spanish": [
+      "peces"
+    ]
+  },
+  {
+    "english": [
+      "mountain"
+    ],
+    "id": 261,
+    "score": 0,
+    "spanish": [
+      "monta\u00f1a"
+    ]
+  },
+  {
+    "english": [
+      "stop"
+    ],
+    "id": 262,
+    "score": 0,
+    "spanish": [
+      "Det\u00e9ngase"
+    ]
+  },
+  {
+    "english": [
+      "once"
+    ],
+    "id": 263,
+    "score": 0,
+    "spanish": [
+      "una vez"
+    ]
+  },
+  {
+    "english": [
+      "base"
+    ],
+    "id": 264,
+    "score": 0,
+    "spanish": [
+      "base de"
+    ]
+  },
+  {
+    "english": [
+      "hear"
+    ],
+    "id": 265,
+    "score": 0,
+    "spanish": [
+      "escuchar"
+    ]
+  },
+  {
+    "english": [
+      "horse"
+    ],
+    "id": 266,
+    "score": 0,
+    "spanish": [
+      "caballo"
+    ]
+  },
+  {
+    "english": [
+      "cut"
+    ],
+    "id": 267,
+    "score": 0,
+    "spanish": [
+      "cortada"
+    ]
+  },
+  {
+    "english": [
+      "sure"
+    ],
+    "id": 268,
+    "score": 0,
+    "spanish": [
+      "seguro"
+    ]
+  },
+  {
+    "english": [
+      "color"
+    ],
+    "id": 270,
+    "score": 0,
+    "spanish": [
+      "colores"
+    ]
+  },
+  {
+    "english": [
+      "face"
+    ],
+    "id": 271,
+    "score": 0,
+    "spanish": [
+      "cara"
+    ]
+  },
+  {
+    "english": [
+      "wood"
+    ],
+    "id": 272,
+    "score": 0,
+    "spanish": [
+      "madera"
+    ]
+  },
+  {
+    "english": [
+      "main"
+    ],
+    "id": 273,
+    "score": 0,
+    "spanish": [
+      "principal"
+    ]
+  },
+  {
+    "english": [
+      "open"
+    ],
+    "id": 274,
+    "score": 0,
+    "spanish": [
+      "abierta"
+    ]
+  },
+  {
+    "english": [
+      "seem"
+    ],
+    "id": 275,
+    "score": 0,
+    "spanish": [
+      "parecer"
+    ]
+  },
+  {
+    "english": [
+      "together"
+    ],
+    "id": 276,
+    "score": 0,
+    "spanish": [
+      "juntos"
+    ]
+  },
+  {
+    "english": [
+      "next"
+    ],
+    "id": 277,
+    "score": 0,
+    "spanish": [
+      "pr\u00f3ximo"
+    ]
+  },
+  {
+    "english": [
+      "white"
+    ],
+    "id": 278,
+    "score": 0,
+    "spanish": [
+      "blanco"
+    ]
+  },
+  {
+    "english": [
+      "children"
+    ],
+    "id": 279,
+    "score": 0,
+    "spanish": [
+      "ni\u00f1os"
+    ]
+  },
+  {
+    "english": [
+      "begin"
+    ],
+    "id": 280,
+    "score": 0,
+    "spanish": [
+      "comenzar"
+    ]
+  },
+  {
+    "english": [
+      "got"
+    ],
+    "id": 281,
+    "score": 0,
+    "spanish": [
+      "conseguido"
+    ]
+  },
+  {
+    "english": [
+      "walk"
+    ],
+    "id": 282,
+    "score": 0,
+    "spanish": [
+      "caminar"
+    ]
+  },
+  {
+    "english": [
+      "example"
+    ],
+    "id": 283,
+    "score": 0,
+    "spanish": [
+      "ejemplo"
+    ]
+  },
+  {
+    "english": [
+      "ease"
+    ],
+    "id": 284,
+    "score": 0,
+    "spanish": [
+      "aliviar"
+    ]
+  },
+  {
+    "english": [
+      "paper"
+    ],
+    "id": 285,
+    "score": 0,
+    "spanish": [
+      "papel"
+    ]
+  },
+  {
+    "english": [
+      "group"
+    ],
+    "id": 286,
+    "score": 0,
+    "spanish": [
+      "grupo"
+    ]
+  },
+  {
+    "english": [
+      "always"
+    ],
+    "id": 287,
+    "score": 0,
+    "spanish": [
+      "siempre"
+    ]
+  },
+  {
+    "english": [
+      "music"
+    ],
+    "id": 288,
+    "score": 0,
+    "spanish": [
+      "m\u00fasica"
+    ]
+  },
+  {
+    "english": [
+      "those"
+    ],
+    "id": 289,
+    "score": 0,
+    "spanish": [
+      "los"
+    ]
+  },
+  {
+    "english": [
+      "both"
+    ],
+    "id": 290,
+    "score": 0,
+    "spanish": [
+      "ambos"
+    ]
+  },
+  {
+    "english": [
+      "mark"
+    ],
+    "id": 291,
+    "score": 0,
+    "spanish": [
+      "marca"
+    ]
+  },
+  {
+    "english": [
+      "often"
+    ],
+    "id": 292,
+    "score": 0,
+    "spanish": [
+      "menudo"
+    ]
+  },
+  {
+    "english": [
+      "letter"
+    ],
+    "id": 293,
+    "score": 0,
+    "spanish": [
+      "carta"
+    ]
+  },
+  {
+    "english": [
+      "until"
+    ],
+    "id": 294,
+    "score": 0,
+    "spanish": [
+      "hasta"
+    ]
+  },
+  {
+    "english": [
+      "mile"
+    ],
+    "id": 295,
+    "score": 0,
+    "spanish": [
+      "milla"
+    ]
+  },
+  {
+    "english": [
+      "river"
+    ],
+    "id": 296,
+    "score": 0,
+    "spanish": [
+      "r\u00edo"
+    ]
+  },
+  {
+    "english": [
+      "car"
+    ],
+    "id": 297,
+    "score": 0,
+    "spanish": [
+      "coche"
+    ]
+  },
+  {
+    "english": [
+      "feet"
+    ],
+    "id": 298,
+    "score": 0,
+    "spanish": [
+      "pies"
+    ]
+  },
+  {
+    "english": [
+      "care"
+    ],
+    "id": 299,
+    "score": 0,
+    "spanish": [
+      "cuidado"
+    ]
+  },
+  {
+    "english": [
+      "second"
+    ],
+    "id": 300,
+    "score": 0,
+    "spanish": [
+      "segundo"
+    ]
+  },
+  {
+    "english": [
+      "enough"
+    ],
+    "id": 301,
+    "score": 0,
+    "spanish": [
+      "suficiente"
+    ]
+  },
+  {
+    "english": [
+      "plain"
+    ],
+    "id": 302,
+    "score": 0,
+    "spanish": [
+      "llano"
+    ]
+  },
+  {
+    "english": [
+      "girl"
+    ],
+    "id": 303,
+    "score": 0,
+    "spanish": [
+      "chica"
+    ]
+  },
+  {
+    "english": [
+      "usual"
+    ],
+    "id": 304,
+    "score": 0,
+    "spanish": [
+      "habitual"
+    ]
+  },
+  {
+    "english": [
+      "young"
+    ],
+    "id": 305,
+    "score": 0,
+    "spanish": [
+      "joven"
+    ]
+  },
+  {
+    "english": [
+      "ready"
+    ],
+    "id": 306,
+    "score": 0,
+    "spanish": [
+      "listo"
+    ]
+  },
+  {
+    "english": [
+      "above"
+    ],
+    "id": 307,
+    "score": 0,
+    "spanish": [
+      "por encima de"
+    ]
+  },
+  {
+    "english": [
+      "ever"
+    ],
+    "id": 308,
+    "score": 0,
+    "spanish": [
+      "nunca"
+    ]
+  },
+  {
+    "english": [
+      "red"
+    ],
+    "id": 309,
+    "score": 0,
+    "spanish": [
+      "rojo"
+    ]
+  },
+  {
+    "english": [
+      "list"
+    ],
+    "id": 310,
+    "score": 0,
+    "spanish": [
+      "lista"
+    ]
+  },
+  {
+    "english": [
+      "though"
+    ],
+    "id": 311,
+    "score": 0,
+    "spanish": [
+      "aunque"
+    ]
+  },
+  {
+    "english": [
+      "feel"
+    ],
+    "id": 312,
+    "score": 0,
+    "spanish": [
+      "sentir"
+    ]
+  },
+  {
+    "english": [
+      "talk"
+    ],
+    "id": 313,
+    "score": 0,
+    "spanish": [
+      "charla"
+    ]
+  },
+  {
+    "english": [
+      "bird"
+    ],
+    "id": 314,
+    "score": 0,
+    "spanish": [
+      "p\u00e1jaro"
+    ]
+  },
+  {
+    "english": [
+      "soon"
+    ],
+    "id": 315,
+    "score": 0,
+    "spanish": [
+      "pronto"
+    ]
+  },
+  {
+    "english": [
+      "body"
+    ],
+    "id": 316,
+    "score": 0,
+    "spanish": [
+      "cuerpo"
+    ]
+  },
+  {
+    "english": [
+      "dog"
+    ],
+    "id": 317,
+    "score": 0,
+    "spanish": [
+      "perro"
+    ]
+  },
+  {
+    "english": [
+      "family"
+    ],
+    "id": 318,
+    "score": 0,
+    "spanish": [
+      "familia"
+    ]
+  },
+  {
+    "english": [
+      "direct"
+    ],
+    "id": 319,
+    "score": 0,
+    "spanish": [
+      "directa"
+    ]
+  },
+  {
+    "english": [
+      "pose"
+    ],
+    "id": 320,
+    "score": 0,
+    "spanish": [
+      "plantear"
+    ]
+  },
+  {
+    "english": [
+      "leave"
+    ],
+    "id": 321,
+    "score": 0,
+    "spanish": [
+      "dejar"
+    ]
+  },
+  {
+    "english": [
+      "song"
+    ],
+    "id": 322,
+    "score": 0,
+    "spanish": [
+      "canci\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "measure"
+    ],
+    "id": 323,
+    "score": 0,
+    "spanish": [
+      "medir"
+    ]
+  },
+  {
+    "english": [
+      "door"
+    ],
+    "id": 324,
+    "score": 0,
+    "spanish": [
+      "puerta"
+    ]
+  },
+  {
+    "english": [
+      "product"
+    ],
+    "id": 325,
+    "score": 0,
+    "spanish": [
+      "producto"
+    ]
+  },
+  {
+    "english": [
+      "black"
+    ],
+    "id": 326,
+    "score": 0,
+    "spanish": [
+      "negro"
+    ]
+  },
+  {
+    "english": [
+      "short"
+    ],
+    "id": 327,
+    "score": 0,
+    "spanish": [
+      "corto"
+    ]
+  },
+  {
+    "english": [
+      "numeral"
+    ],
+    "id": 328,
+    "score": 0,
+    "spanish": [
+      "numeral"
+    ]
+  },
+  {
+    "english": [
+      "class"
+    ],
+    "id": 329,
+    "score": 0,
+    "spanish": [
+      "clase"
+    ]
+  },
+  {
+    "english": [
+      "wind"
+    ],
+    "id": 330,
+    "score": 0,
+    "spanish": [
+      "viento"
+    ]
+  },
+  {
+    "english": [
+      "question"
+    ],
+    "id": 331,
+    "score": 0,
+    "spanish": [
+      "pregunta"
+    ]
+  },
+  {
+    "english": [
+      "happen"
+    ],
+    "id": 332,
+    "score": 0,
+    "spanish": [
+      "suceder"
+    ]
+  },
+  {
+    "english": [
+      "complete"
+    ],
+    "id": 333,
+    "score": 0,
+    "spanish": [
+      "completo"
+    ]
+  },
+  {
+    "english": [
+      "ship"
+    ],
+    "id": 334,
+    "score": 0,
+    "spanish": [
+      "buque"
+    ]
+  },
+  {
+    "english": [
+      "area"
+    ],
+    "id": 335,
+    "score": 0,
+    "spanish": [
+      "zona"
+    ]
+  },
+  {
+    "english": [
+      "half"
+    ],
+    "id": 336,
+    "score": 0,
+    "spanish": [
+      "medio"
+    ]
+  },
+  {
+    "english": [
+      "rock"
+    ],
+    "id": 337,
+    "score": 0,
+    "spanish": [
+      "roca"
+    ]
+  },
+  {
+    "english": [
+      "order"
+    ],
+    "id": 338,
+    "score": 0,
+    "spanish": [
+      "orden"
+    ]
+  },
+  {
+    "english": [
+      "fire"
+    ],
+    "id": 339,
+    "score": 0,
+    "spanish": [
+      "fuego"
+    ]
+  },
+  {
+    "english": [
+      "south"
+    ],
+    "id": 340,
+    "score": 0,
+    "spanish": [
+      "sur"
+    ]
+  },
+  {
+    "english": [
+      "problem"
+    ],
+    "id": 341,
+    "score": 0,
+    "spanish": [
+      "problema"
+    ]
+  },
+  {
+    "english": [
+      "piece"
+    ],
+    "id": 342,
+    "score": 0,
+    "spanish": [
+      "pieza"
+    ]
+  },
+  {
+    "english": [
+      "knew"
+    ],
+    "id": 344,
+    "score": 0,
+    "spanish": [
+      "sab\u00eda"
+    ]
+  },
+  {
+    "english": [
+      "pass"
+    ],
+    "id": 345,
+    "score": 0,
+    "spanish": [
+      "pasar"
+    ]
+  },
+  {
+    "english": [
+      "since"
+    ],
+    "id": 346,
+    "score": 0,
+    "spanish": [
+      "desde"
+    ]
+  },
+  {
+    "english": [
+      "top"
+    ],
+    "id": 347,
+    "score": 0,
+    "spanish": [
+      "cima"
+    ]
+  },
+  {
+    "english": [
+      "whole"
+    ],
+    "id": 348,
+    "score": 0,
+    "spanish": [
+      "todo"
+    ]
+  },
+  {
+    "english": [
+      "king"
+    ],
+    "id": 349,
+    "score": 0,
+    "spanish": [
+      "rey"
+    ]
+  },
+  {
+    "english": [
+      "street"
+    ],
+    "id": 350,
+    "score": 0,
+    "spanish": [
+      "calle"
+    ]
+  },
+  {
+    "english": [
+      "inch"
+    ],
+    "id": 351,
+    "score": 0,
+    "spanish": [
+      "pulgadas"
+    ]
+  },
+  {
+    "english": [
+      "multiply"
+    ],
+    "id": 352,
+    "score": 0,
+    "spanish": [
+      "multiplicar"
+    ]
+  },
+  {
+    "english": [
+      "nothing"
+    ],
+    "id": 353,
+    "score": 0,
+    "spanish": [
+      "nada"
+    ]
+  },
+  {
+    "english": [
+      "course"
+    ],
+    "id": 354,
+    "score": 0,
+    "spanish": [
+      "curso"
+    ]
+  },
+  {
+    "english": [
+      "stay"
+    ],
+    "id": 355,
+    "score": 0,
+    "spanish": [
+      "quedarse"
+    ]
+  },
+  {
+    "english": [
+      "wheel"
+    ],
+    "id": 356,
+    "score": 0,
+    "spanish": [
+      "rueda"
+    ]
+  },
+  {
+    "english": [
+      "full"
+    ],
+    "id": 357,
+    "score": 0,
+    "spanish": [
+      "completo"
+    ]
+  },
+  {
+    "english": [
+      "force"
+    ],
+    "id": 358,
+    "score": 0,
+    "spanish": [
+      "fuerza"
+    ]
+  },
+  {
+    "english": [
+      "blue"
+    ],
+    "id": 359,
+    "score": 0,
+    "spanish": [
+      "azul"
+    ]
+  },
+  {
+    "english": [
+      "object"
+    ],
+    "id": 360,
+    "score": 0,
+    "spanish": [
+      "objeto"
+    ]
+  },
+  {
+    "english": [
+      "decide"
+    ],
+    "id": 361,
+    "score": 0,
+    "spanish": [
+      "decidir"
+    ]
+  },
+  {
+    "english": [
+      "surface"
+    ],
+    "id": 362,
+    "score": 0,
+    "spanish": [
+      "superficie"
+    ]
+  },
+  {
+    "english": [
+      "deep"
+    ],
+    "id": 363,
+    "score": 0,
+    "spanish": [
+      "profunda"
+    ]
+  },
+  {
+    "english": [
+      "moon"
+    ],
+    "id": 364,
+    "score": 0,
+    "spanish": [
+      "luna"
+    ]
+  },
+  {
+    "english": [
+      "island"
+    ],
+    "id": 365,
+    "score": 0,
+    "spanish": [
+      "isla"
+    ]
+  },
+  {
+    "english": [
+      "foot"
+    ],
+    "id": 366,
+    "score": 0,
+    "spanish": [
+      "pie"
+    ]
+  },
+  {
+    "english": [
+      "system"
+    ],
+    "id": 367,
+    "score": 0,
+    "spanish": [
+      "sistema"
+    ]
+  },
+  {
+    "english": [
+      "busy"
+    ],
+    "id": 368,
+    "score": 0,
+    "spanish": [
+      "ocupado"
+    ]
+  },
+  {
+    "english": [
+      "test"
+    ],
+    "id": 369,
+    "score": 0,
+    "spanish": [
+      "prueba"
+    ]
+  },
+  {
+    "english": [
+      "record"
+    ],
+    "id": 370,
+    "score": 0,
+    "spanish": [
+      "registro"
+    ]
+  },
+  {
+    "english": [
+      "boat"
+    ],
+    "id": 371,
+    "score": 0,
+    "spanish": [
+      "barco"
+    ]
+  },
+  {
+    "english": [
+      "common"
+    ],
+    "id": 372,
+    "score": 0,
+    "spanish": [
+      "com\u00fan"
+    ]
+  },
+  {
+    "english": [
+      "gold"
+    ],
+    "id": 373,
+    "score": 0,
+    "spanish": [
+      "oro"
+    ]
+  },
+  {
+    "english": [
+      "possible"
+    ],
+    "id": 374,
+    "score": 0,
+    "spanish": [
+      "posible"
+    ]
+  },
+  {
+    "english": [
+      "plane"
+    ],
+    "id": 375,
+    "score": 0,
+    "spanish": [
+      "plano"
+    ]
+  },
+  {
+    "english": [
+      "stead"
+    ],
+    "id": 376,
+    "score": 0,
+    "spanish": [
+      "lugar"
+    ]
+  },
+  {
+    "english": [
+      "dry"
+    ],
+    "id": 377,
+    "score": 0,
+    "spanish": [
+      "seco"
+    ]
+  },
+  {
+    "english": [
+      "wonder"
+    ],
+    "id": 378,
+    "score": 0,
+    "spanish": [
+      "maravilla"
+    ]
+  },
+  {
+    "english": [
+      "laugh"
+    ],
+    "id": 379,
+    "score": 0,
+    "spanish": [
+      "risa"
+    ]
+  },
+  {
+    "english": [
+      "thousand"
+    ],
+    "id": 380,
+    "score": 0,
+    "spanish": [
+      "mil"
+    ]
+  },
+  {
+    "english": [
+      "ago"
+    ],
+    "id": 381,
+    "score": 0,
+    "spanish": [
+      "hace"
+    ]
+  },
+  {
+    "english": [
+      "ran"
+    ],
+    "id": 382,
+    "score": 0,
+    "spanish": [
+      "corri\u00f3"
+    ]
+  },
+  {
+    "english": [
+      "check"
+    ],
+    "id": 383,
+    "score": 0,
+    "spanish": [
+      "comprobar"
+    ]
+  },
+  {
+    "english": [
+      "game"
+    ],
+    "id": 384,
+    "score": 0,
+    "spanish": [
+      "juego"
+    ]
+  },
+  {
+    "english": [
+      "shape"
+    ],
+    "id": 385,
+    "score": 0,
+    "spanish": [
+      "forma"
+    ]
+  },
+  {
+    "english": [
+      "equate"
+    ],
+    "id": 386,
+    "score": 0,
+    "spanish": [
+      "equiparar"
+    ]
+  },
+  {
+    "english": [
+      "hot"
+    ],
+    "id": 387,
+    "score": 0,
+    "spanish": [
+      "caliente"
+    ]
+  },
+  {
+    "english": [
+      "miss"
+    ],
+    "id": 388,
+    "score": 0,
+    "spanish": [
+      "se\u00f1orita"
+    ]
+  },
+  {
+    "english": [
+      "brought"
+    ],
+    "id": 389,
+    "score": 0,
+    "spanish": [
+      "tra\u00eddo"
+    ]
+  },
+  {
+    "english": [
+      "heat"
+    ],
+    "id": 390,
+    "score": 0,
+    "spanish": [
+      "calor"
+    ]
+  },
+  {
+    "english": [
+      "snow"
+    ],
+    "id": 391,
+    "score": 0,
+    "spanish": [
+      "nieve"
+    ]
+  },
+  {
+    "english": [
+      "tire"
+    ],
+    "id": 392,
+    "score": 0,
+    "spanish": [
+      "neum\u00e1ticos"
+    ]
+  },
+  {
+    "english": [
+      "bring"
+    ],
+    "id": 393,
+    "score": 0,
+    "spanish": [
+      "traer"
+    ]
+  },
+  {
+    "english": [
+      "yes"
+    ],
+    "id": 394,
+    "score": 0,
+    "spanish": [
+      "s\u00ed"
+    ]
+  },
+  {
+    "english": [
+      "distant"
+    ],
+    "id": 395,
+    "score": 0,
+    "spanish": [
+      "distante"
+    ]
+  },
+  {
+    "english": [
+      "fill"
+    ],
+    "id": 396,
+    "score": 0,
+    "spanish": [
+      "llenar"
+    ]
+  },
+  {
+    "english": [
+      "east"
+    ],
+    "id": 397,
+    "score": 0,
+    "spanish": [
+      "al este"
+    ]
+  },
+  {
+    "english": [
+      "paint"
+    ],
+    "id": 398,
+    "score": 0,
+    "spanish": [
+      "pintar"
+    ]
+  },
+  {
+    "english": [
+      "language"
+    ],
+    "id": 399,
+    "score": 0,
+    "spanish": [
+      "idioma"
+    ]
+  },
+  {
+    "english": [
+      "among"
+    ],
+    "id": 400,
+    "score": 0,
+    "spanish": [
+      "entre"
+    ]
+  },
+  {
+    "english": [
+      "unit"
+    ],
+    "id": 401,
+    "score": 0,
+    "spanish": [
+      "unidad"
+    ]
+  },
+  {
+    "english": [
+      "power"
+    ],
+    "id": 402,
+    "score": 0,
+    "spanish": [
+      "potencia"
+    ]
+  },
+  {
+    "english": [
+      "town"
+    ],
+    "id": 403,
+    "score": 0,
+    "spanish": [
+      "ciudad"
+    ]
+  },
+  {
+    "english": [
+      "fine"
+    ],
+    "id": 404,
+    "score": 0,
+    "spanish": [
+      "fina"
+    ]
+  },
+  {
+    "english": [
+      "certain"
+    ],
+    "id": 405,
+    "score": 0,
+    "spanish": [
+      "cierto"
+    ]
+  },
+  {
+    "english": [
+      "fly"
+    ],
+    "id": 406,
+    "score": 0,
+    "spanish": [
+      "volar"
+    ]
+  },
+  {
+    "english": [
+      "fall"
+    ],
+    "id": 407,
+    "score": 0,
+    "spanish": [
+      "caer"
+    ]
+  },
+  {
+    "english": [
+      "lead"
+    ],
+    "id": 408,
+    "score": 0,
+    "spanish": [
+      "conducir"
+    ]
+  },
+  {
+    "english": [
+      "cry"
+    ],
+    "id": 409,
+    "score": 0,
+    "spanish": [
+      "grito"
+    ]
+  },
+  {
+    "english": [
+      "dark"
+    ],
+    "id": 410,
+    "score": 0,
+    "spanish": [
+      "oscuro"
+    ]
+  },
+  {
+    "english": [
+      "machine"
+    ],
+    "id": 411,
+    "score": 0,
+    "spanish": [
+      "m\u00e1quina"
+    ]
+  },
+  {
+    "english": [
+      "note"
+    ],
+    "id": 412,
+    "score": 0,
+    "spanish": [
+      "nota"
+    ]
+  },
+  {
+    "english": [
+      "wait"
+    ],
+    "id": 413,
+    "score": 0,
+    "spanish": [
+      "espere"
+    ]
+  },
+  {
+    "english": [
+      "plan"
+    ],
+    "id": 414,
+    "score": 0,
+    "spanish": [
+      "plan de"
+    ]
+  },
+  {
+    "english": [
+      "figure"
+    ],
+    "id": 415,
+    "score": 0,
+    "spanish": [
+      "figura"
+    ]
+  },
+  {
+    "english": [
+      "star"
+    ],
+    "id": 416,
+    "score": 0,
+    "spanish": [
+      "estrella"
+    ]
+  },
+  {
+    "english": [
+      "box"
+    ],
+    "id": 417,
+    "score": 0,
+    "spanish": [
+      "caja"
+    ]
+  },
+  {
+    "english": [
+      "noun"
+    ],
+    "id": 418,
+    "score": 0,
+    "spanish": [
+      "sustantivo"
+    ]
+  },
+  {
+    "english": [
+      "field"
+    ],
+    "id": 419,
+    "score": 0,
+    "spanish": [
+      "campo"
+    ]
+  },
+  {
+    "english": [
+      "rest"
+    ],
+    "id": 420,
+    "score": 0,
+    "spanish": [
+      "resto"
+    ]
+  },
+  {
+    "english": [
+      "correct"
+    ],
+    "id": 421,
+    "score": 0,
+    "spanish": [
+      "correcta"
+    ]
+  },
+  {
+    "english": [
+      "able"
+    ],
+    "id": 422,
+    "score": 0,
+    "spanish": [
+      "capaz"
+    ]
+  },
+  {
+    "english": [
+      "pound"
+    ],
+    "id": 423,
+    "score": 0,
+    "spanish": [
+      "libra"
+    ]
+  },
+  {
+    "english": [
+      "done"
+    ],
+    "id": 424,
+    "score": 0,
+    "spanish": [
+      "hecho"
+    ]
+  },
+  {
+    "english": [
+      "beauty"
+    ],
+    "id": 425,
+    "score": 0,
+    "spanish": [
+      "belleza"
+    ]
+  },
+  {
+    "english": [
+      "drive"
+    ],
+    "id": 426,
+    "score": 0,
+    "spanish": [
+      "unidad"
+    ]
+  },
+  {
+    "english": [
+      "stood"
+    ],
+    "id": 427,
+    "score": 0,
+    "spanish": [
+      "destacado"
+    ]
+  },
+  {
+    "english": [
+      "contain"
+    ],
+    "id": 428,
+    "score": 0,
+    "spanish": [
+      "contener"
+    ]
+  },
+  {
+    "english": [
+      "front"
+    ],
+    "id": 429,
+    "score": 0,
+    "spanish": [
+      "delante"
+    ]
+  },
+  {
+    "english": [
+      "teach"
+    ],
+    "id": 430,
+    "score": 0,
+    "spanish": [
+      "ense\u00f1ar"
+    ]
+  },
+  {
+    "english": [
+      "week"
+    ],
+    "id": 431,
+    "score": 0,
+    "spanish": [
+      "semana"
+    ]
+  },
+  {
+    "english": [
+      "final"
+    ],
+    "id": 432,
+    "score": 0,
+    "spanish": [
+      "\u00faltimo"
+    ]
+  },
+  {
+    "english": [
+      "gave"
+    ],
+    "id": 433,
+    "score": 0,
+    "spanish": [
+      "dio"
+    ]
+  },
+  {
+    "english": [
+      "green"
+    ],
+    "id": 434,
+    "score": 0,
+    "spanish": [
+      "verde"
+    ]
+  },
+  {
+    "english": [
+      "oh"
+    ],
+    "id": 435,
+    "score": 0,
+    "spanish": [
+      "oh"
+    ]
+  },
+  {
+    "english": [
+      "quick"
+    ],
+    "id": 436,
+    "score": 0,
+    "spanish": [
+      "r\u00e1pido"
+    ]
+  },
+  {
+    "english": [
+      "develop"
+    ],
+    "id": 437,
+    "score": 0,
+    "spanish": [
+      "desarrollar"
+    ]
+  },
+  {
+    "english": [
+      "ocean"
+    ],
+    "id": 438,
+    "score": 0,
+    "spanish": [
+      "oc\u00e9ano"
+    ]
+  },
+  {
+    "english": [
+      "warm"
+    ],
+    "id": 439,
+    "score": 0,
+    "spanish": [
+      "caliente"
+    ]
+  },
+  {
+    "english": [
+      "free"
+    ],
+    "id": 440,
+    "score": 0,
+    "spanish": [
+      "libre"
+    ]
+  },
+  {
+    "english": [
+      "minute"
+    ],
+    "id": 441,
+    "score": 0,
+    "spanish": [
+      "minuto"
+    ]
+  },
+  {
+    "english": [
+      "strong"
+    ],
+    "id": 442,
+    "score": 0,
+    "spanish": [
+      "fuerte"
+    ]
+  },
+  {
+    "english": [
+      "special"
+    ],
+    "id": 443,
+    "score": 0,
+    "spanish": [
+      "especial"
+    ]
+  },
+  {
+    "english": [
+      "mind"
+    ],
+    "id": 444,
+    "score": 0,
+    "spanish": [
+      "mente"
+    ]
+  },
+  {
+    "english": [
+      "behind"
+    ],
+    "id": 445,
+    "score": 0,
+    "spanish": [
+      "detr\u00e1s"
+    ]
+  },
+  {
+    "english": [
+      "clear"
+    ],
+    "id": 446,
+    "score": 0,
+    "spanish": [
+      "claro"
+    ]
+  },
+  {
+    "english": [
+      "tail"
+    ],
+    "id": 447,
+    "score": 0,
+    "spanish": [
+      "cola"
+    ]
+  },
+  {
+    "english": [
+      "produce"
+    ],
+    "id": 448,
+    "score": 0,
+    "spanish": [
+      "Produce"
+    ]
+  },
+  {
+    "english": [
+      "fact"
+    ],
+    "id": 449,
+    "score": 0,
+    "spanish": [
+      "hecho"
+    ]
+  },
+  {
+    "english": [
+      "space"
+    ],
+    "id": 450,
+    "score": 0,
+    "spanish": [
+      "espacio"
+    ]
+  },
+  {
+    "english": [
+      "heard"
+    ],
+    "id": 451,
+    "score": 0,
+    "spanish": [
+      "o\u00eddo"
+    ]
+  },
+  {
+    "english": [
+      "best"
+    ],
+    "id": 452,
+    "score": 0,
+    "spanish": [
+      "mejor"
+    ]
+  },
+  {
+    "english": [
+      "hour"
+    ],
+    "id": 453,
+    "score": 0,
+    "spanish": [
+      "horas"
+    ]
+  },
+  {
+    "english": [
+      "better"
+    ],
+    "id": 454,
+    "score": 0,
+    "spanish": [
+      "mejor"
+    ]
+  },
+  {
+    "english": [
+      "TRUE"
+    ],
+    "id": 455,
+    "score": 0,
+    "spanish": [
+      "verdadero"
+    ]
+  },
+  {
+    "english": [
+      "during"
+    ],
+    "id": 456,
+    "score": 0,
+    "spanish": [
+      "durante"
+    ]
+  },
+  {
+    "english": [
+      "hundred"
+    ],
+    "id": 457,
+    "score": 0,
+    "spanish": [
+      "cien"
+    ]
+  },
+  {
+    "english": [
+      "five"
+    ],
+    "id": 458,
+    "score": 0,
+    "spanish": [
+      "cinco"
+    ]
+  },
+  {
+    "english": [
+      "remember"
+    ],
+    "id": 459,
+    "score": 0,
+    "spanish": [
+      "recordar"
+    ]
+  },
+  {
+    "english": [
+      "step"
+    ],
+    "id": 460,
+    "score": 0,
+    "spanish": [
+      "paso"
+    ]
+  },
+  {
+    "english": [
+      "early"
+    ],
+    "id": 461,
+    "score": 0,
+    "spanish": [
+      "temprana"
+    ]
+  },
+  {
+    "english": [
+      "hold"
+    ],
+    "id": 462,
+    "score": 0,
+    "spanish": [
+      "mantenga"
+    ]
+  },
+  {
+    "english": [
+      "west"
+    ],
+    "id": 463,
+    "score": 0,
+    "spanish": [
+      "oeste"
+    ]
+  },
+  {
+    "english": [
+      "ground"
+    ],
+    "id": 464,
+    "score": 0,
+    "spanish": [
+      "suelo"
+    ]
+  },
+  {
+    "english": [
+      "interest"
+    ],
+    "id": 465,
+    "score": 0,
+    "spanish": [
+      "inter\u00e9s"
+    ]
+  },
+  {
+    "english": [
+      "reach"
+    ],
+    "id": 466,
+    "score": 0,
+    "spanish": [
+      "llegar"
+    ]
+  },
+  {
+    "english": [
+      "fast"
+    ],
+    "id": 467,
+    "score": 0,
+    "spanish": [
+      "r\u00e1pido"
+    ]
+  },
+  {
+    "english": [
+      "verb"
+    ],
+    "id": 468,
+    "score": 0,
+    "spanish": [
+      "verbo"
+    ]
+  },
+  {
+    "english": [
+      "sing"
+    ],
+    "id": 469,
+    "score": 0,
+    "spanish": [
+      "cantar"
+    ]
+  },
+  {
+    "english": [
+      "listen"
+    ],
+    "id": 470,
+    "score": 0,
+    "spanish": [
+      "escuchar"
+    ]
+  },
+  {
+    "english": [
+      "six"
+    ],
+    "id": 471,
+    "score": 0,
+    "spanish": [
+      "seis"
+    ]
+  },
+  {
+    "english": [
+      "table"
+    ],
+    "id": 472,
+    "score": 0,
+    "spanish": [
+      "mesa"
+    ]
+  },
+  {
+    "english": [
+      "travel"
+    ],
+    "id": 473,
+    "score": 0,
+    "spanish": [
+      "viajes"
+    ]
+  },
+  {
+    "english": [
+      "less"
+    ],
+    "id": 474,
+    "score": 0,
+    "spanish": [
+      "menos"
+    ]
+  },
+  {
+    "english": [
+      "morning"
+    ],
+    "id": 475,
+    "score": 0,
+    "spanish": [
+      "ma\u00f1ana"
+    ]
+  },
+  {
+    "english": [
+      "ten"
+    ],
+    "id": 476,
+    "score": 0,
+    "spanish": [
+      "diez"
+    ]
+  },
+  {
+    "english": [
+      "simple"
+    ],
+    "id": 477,
+    "score": 0,
+    "spanish": [
+      "sencilla"
+    ]
+  },
+  {
+    "english": [
+      "several"
+    ],
+    "id": 478,
+    "score": 0,
+    "spanish": [
+      "varios"
+    ]
+  },
+  {
+    "english": [
+      "vowel"
+    ],
+    "id": 479,
+    "score": 0,
+    "spanish": [
+      "vocal"
+    ]
+  },
+  {
+    "english": [
+      "toward"
+    ],
+    "id": 480,
+    "score": 0,
+    "spanish": [
+      "hacia"
+    ]
+  },
+  {
+    "english": [
+      "war"
+    ],
+    "id": 481,
+    "score": 0,
+    "spanish": [
+      "guerra"
+    ]
+  },
+  {
+    "english": [
+      "lay"
+    ],
+    "id": 482,
+    "score": 0,
+    "spanish": [
+      "sentar"
+    ]
+  },
+  {
+    "english": [
+      "against"
+    ],
+    "id": 483,
+    "score": 0,
+    "spanish": [
+      "contra"
+    ]
+  },
+  {
+    "english": [
+      "pattern"
+    ],
+    "id": 484,
+    "score": 0,
+    "spanish": [
+      "patr\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "slow"
+    ],
+    "id": 485,
+    "score": 0,
+    "spanish": [
+      "lenta"
+    ]
+  },
+  {
+    "english": [
+      "center"
+    ],
+    "id": 486,
+    "score": 0,
+    "spanish": [
+      "centro"
+    ]
+  },
+  {
+    "english": [
+      "love"
+    ],
+    "id": 487,
+    "score": 0,
+    "spanish": [
+      "amar"
+    ]
+  },
+  {
+    "english": [
+      "person"
+    ],
+    "id": 488,
+    "score": 0,
+    "spanish": [
+      "persona"
+    ]
+  },
+  {
+    "english": [
+      "money"
+    ],
+    "id": 489,
+    "score": 0,
+    "spanish": [
+      "dinero"
+    ]
+  },
+  {
+    "english": [
+      "serve"
+    ],
+    "id": 490,
+    "score": 0,
+    "spanish": [
+      "servir"
+    ]
+  },
+  {
+    "english": [
+      "appear"
+    ],
+    "id": 491,
+    "score": 0,
+    "spanish": [
+      "aparecer\u00e1"
+    ]
+  },
+  {
+    "english": [
+      "road"
+    ],
+    "id": 492,
+    "score": 0,
+    "spanish": [
+      "carretera"
+    ]
+  },
+  {
+    "english": [
+      "map"
+    ],
+    "id": 493,
+    "score": 0,
+    "spanish": [
+      "mapa"
+    ]
+  },
+  {
+    "english": [
+      "rain"
+    ],
+    "id": 494,
+    "score": 0,
+    "spanish": [
+      "lluvia"
+    ]
+  },
+  {
+    "english": [
+      "rule"
+    ],
+    "id": 495,
+    "score": 0,
+    "spanish": [
+      "regla"
+    ]
+  },
+  {
+    "english": [
+      "govern"
+    ],
+    "id": 496,
+    "score": 0,
+    "spanish": [
+      "gobernar"
+    ]
+  },
+  {
+    "english": [
+      "pull"
+    ],
+    "id": 497,
+    "score": 0,
+    "spanish": [
+      "Halar"
+    ]
+  },
+  {
+    "english": [
+      "cold"
+    ],
+    "id": 498,
+    "score": 0,
+    "spanish": [
+      "fr\u00edo"
+    ]
+  },
+  {
+    "english": [
+      "notice"
+    ],
+    "id": 499,
+    "score": 0,
+    "spanish": [
+      "aviso"
+    ]
+  },
+  {
+    "english": [
+      "voice"
+    ],
+    "id": 500,
+    "score": 0,
+    "spanish": [
+      "voz"
+    ]
+  },
+  {
+    "english": [
+      "energy"
+    ],
+    "id": 501,
+    "score": 0,
+    "spanish": [
+      "energ\u00eda"
+    ]
+  },
+  {
+    "english": [
+      "hunt"
+    ],
+    "id": 502,
+    "score": 0,
+    "spanish": [
+      "caza"
+    ]
+  },
+  {
+    "english": [
+      "probable"
+    ],
+    "id": 503,
+    "score": 0,
+    "spanish": [
+      "probable"
+    ]
+  },
+  {
+    "english": [
+      "bed"
+    ],
+    "id": 504,
+    "score": 0,
+    "spanish": [
+      "cama"
+    ]
+  },
+  {
+    "english": [
+      "brother"
+    ],
+    "id": 505,
+    "score": 0,
+    "spanish": [
+      "hermano"
+    ]
+  },
+  {
+    "english": [
+      "egg"
+    ],
+    "id": 506,
+    "score": 0,
+    "spanish": [
+      "huevo"
+    ]
+  },
+  {
+    "english": [
+      "ride"
+    ],
+    "id": 507,
+    "score": 0,
+    "spanish": [
+      "paseo"
+    ]
+  },
+  {
+    "english": [
+      "cell"
+    ],
+    "id": 508,
+    "score": 0,
+    "spanish": [
+      "celular"
+    ]
+  },
+  {
+    "english": [
+      "believe"
+    ],
+    "id": 509,
+    "score": 0,
+    "spanish": [
+      "creer"
+    ]
+  },
+  {
+    "english": [
+      "perhaps"
+    ],
+    "id": 510,
+    "score": 0,
+    "spanish": [
+      "quiz\u00e1s"
+    ]
+  },
+  {
+    "english": [
+      "pick"
+    ],
+    "id": 511,
+    "score": 0,
+    "spanish": [
+      "recoger"
+    ]
+  },
+  {
+    "english": [
+      "sudden"
+    ],
+    "id": 512,
+    "score": 0,
+    "spanish": [
+      "repentina"
+    ]
+  },
+  {
+    "english": [
+      "count"
+    ],
+    "id": 513,
+    "score": 0,
+    "spanish": [
+      "contar"
+    ]
+  },
+  {
+    "english": [
+      "square"
+    ],
+    "id": 514,
+    "score": 0,
+    "spanish": [
+      "plaza"
+    ]
+  },
+  {
+    "english": [
+      "reason"
+    ],
+    "id": 515,
+    "score": 0,
+    "spanish": [
+      "raz\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "length"
+    ],
+    "id": 516,
+    "score": 0,
+    "spanish": [
+      "longitud"
+    ]
+  },
+  {
+    "english": [
+      "represent"
+    ],
+    "id": 517,
+    "score": 0,
+    "spanish": [
+      "representar"
+    ]
+  },
+  {
+    "english": [
+      "art"
+    ],
+    "id": 518,
+    "score": 0,
+    "spanish": [
+      "arte"
+    ]
+  },
+  {
+    "english": [
+      "subject"
+    ],
+    "id": 519,
+    "score": 0,
+    "spanish": [
+      "sujeto"
+    ]
+  },
+  {
+    "english": [
+      "region"
+    ],
+    "id": 520,
+    "score": 0,
+    "spanish": [
+      "regi\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "size"
+    ],
+    "id": 521,
+    "score": 0,
+    "spanish": [
+      "tama\u00f1o"
+    ]
+  },
+  {
+    "english": [
+      "vary"
+    ],
+    "id": 522,
+    "score": 0,
+    "spanish": [
+      "variar"
+    ]
+  },
+  {
+    "english": [
+      "settle"
+    ],
+    "id": 523,
+    "score": 0,
+    "spanish": [
+      "resolver"
+    ]
+  },
+  {
+    "english": [
+      "speak"
+    ],
+    "id": 524,
+    "score": 0,
+    "spanish": [
+      "hablar"
+    ]
+  },
+  {
+    "english": [
+      "weight"
+    ],
+    "id": 525,
+    "score": 0,
+    "spanish": [
+      "peso"
+    ]
+  },
+  {
+    "english": [
+      "general"
+    ],
+    "id": 526,
+    "score": 0,
+    "spanish": [
+      "general"
+    ]
+  },
+  {
+    "english": [
+      "ice"
+    ],
+    "id": 527,
+    "score": 0,
+    "spanish": [
+      "hielo"
+    ]
+  },
+  {
+    "english": [
+      "matter"
+    ],
+    "id": 528,
+    "score": 0,
+    "spanish": [
+      "materia"
+    ]
+  },
+  {
+    "english": [
+      "circle"
+    ],
+    "id": 529,
+    "score": 0,
+    "spanish": [
+      "c\u00edrculo"
+    ]
+  },
+  {
+    "english": [
+      "pair"
+    ],
+    "id": 530,
+    "score": 0,
+    "spanish": [
+      "par"
+    ]
+  },
+  {
+    "english": [
+      "include"
+    ],
+    "id": 531,
+    "score": 0,
+    "spanish": [
+      "incluir"
+    ]
+  },
+  {
+    "english": [
+      "divide"
+    ],
+    "id": 532,
+    "score": 0,
+    "spanish": [
+      "brecha"
+    ]
+  },
+  {
+    "english": [
+      "syllable"
+    ],
+    "id": 533,
+    "score": 0,
+    "spanish": [
+      "s\u00edlaba"
+    ]
+  },
+  {
+    "english": [
+      "felt"
+    ],
+    "id": 534,
+    "score": 0,
+    "spanish": [
+      "sentido"
+    ]
+  },
+  {
+    "english": [
+      "grand"
+    ],
+    "id": 535,
+    "score": 0,
+    "spanish": [
+      "gran"
+    ]
+  },
+  {
+    "english": [
+      "ball"
+    ],
+    "id": 536,
+    "score": 0,
+    "spanish": [
+      "bola"
+    ]
+  },
+  {
+    "english": [
+      "yet"
+    ],
+    "id": 537,
+    "score": 0,
+    "spanish": [
+      "a\u00fan"
+    ]
+  },
+  {
+    "english": [
+      "wave"
+    ],
+    "id": 538,
+    "score": 0,
+    "spanish": [
+      "ola"
+    ]
+  },
+  {
+    "english": [
+      "drop"
+    ],
+    "id": 539,
+    "score": 0,
+    "spanish": [
+      "caer"
+    ]
+  },
+  {
+    "english": [
+      "heart"
+    ],
+    "id": 540,
+    "score": 0,
+    "spanish": [
+      "coraz\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "am"
+    ],
+    "id": 541,
+    "score": 0,
+    "spanish": [
+      "am"
+    ]
+  },
+  {
+    "english": [
+      "present"
+    ],
+    "id": 542,
+    "score": 0,
+    "spanish": [
+      "presente"
+    ]
+  },
+  {
+    "english": [
+      "heavy"
+    ],
+    "id": 543,
+    "score": 0,
+    "spanish": [
+      "pesada"
+    ]
+  },
+  {
+    "english": [
+      "dance"
+    ],
+    "id": 544,
+    "score": 0,
+    "spanish": [
+      "danza"
+    ]
+  },
+  {
+    "english": [
+      "engine"
+    ],
+    "id": 545,
+    "score": 0,
+    "spanish": [
+      "motor"
+    ]
+  },
+  {
+    "english": [
+      "position"
+    ],
+    "id": 546,
+    "score": 0,
+    "spanish": [
+      "posici\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "arm"
+    ],
+    "id": 547,
+    "score": 0,
+    "spanish": [
+      "brazo"
+    ]
+  },
+  {
+    "english": [
+      "wide"
+    ],
+    "id": 548,
+    "score": 0,
+    "spanish": [
+      "amplio"
+    ]
+  },
+  {
+    "english": [
+      "sail"
+    ],
+    "id": 549,
+    "score": 0,
+    "spanish": [
+      "vela"
+    ]
+  },
+  {
+    "english": [
+      "material"
+    ],
+    "id": 550,
+    "score": 0,
+    "spanish": [
+      "materiales"
+    ]
+  },
+  {
+    "english": [
+      "fraction"
+    ],
+    "id": 551,
+    "score": 0,
+    "spanish": [
+      "fracci\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "forest"
+    ],
+    "id": 552,
+    "score": 0,
+    "spanish": [
+      "bosque"
+    ]
+  },
+  {
+    "english": [
+      "sit"
+    ],
+    "id": 553,
+    "score": 0,
+    "spanish": [
+      "sentarse"
+    ]
+  },
+  {
+    "english": [
+      "race"
+    ],
+    "id": 554,
+    "score": 0,
+    "spanish": [
+      "carrera"
+    ]
+  },
+  {
+    "english": [
+      "window"
+    ],
+    "id": 555,
+    "score": 0,
+    "spanish": [
+      "ventana"
+    ]
+  },
+  {
+    "english": [
+      "store"
+    ],
+    "id": 556,
+    "score": 0,
+    "spanish": [
+      "tienda"
+    ]
+  },
+  {
+    "english": [
+      "summer"
+    ],
+    "id": 557,
+    "score": 0,
+    "spanish": [
+      "verano"
+    ]
+  },
+  {
+    "english": [
+      "train"
+    ],
+    "id": 558,
+    "score": 0,
+    "spanish": [
+      "tren"
+    ]
+  },
+  {
+    "english": [
+      "sleep"
+    ],
+    "id": 559,
+    "score": 0,
+    "spanish": [
+      "sue\u00f1o"
+    ]
+  },
+  {
+    "english": [
+      "prove"
+    ],
+    "id": 560,
+    "score": 0,
+    "spanish": [
+      "demostrar"
+    ]
+  },
+  {
+    "english": [
+      "lone"
+    ],
+    "id": 561,
+    "score": 0,
+    "spanish": [
+      "solitario"
+    ]
+  },
+  {
+    "english": [
+      "leg"
+    ],
+    "id": 562,
+    "score": 0,
+    "spanish": [
+      "pierna"
+    ]
+  },
+  {
+    "english": [
+      "exercise"
+    ],
+    "id": 563,
+    "score": 0,
+    "spanish": [
+      "ejercicio"
+    ]
+  },
+  {
+    "english": [
+      "wall"
+    ],
+    "id": 564,
+    "score": 0,
+    "spanish": [
+      "pared"
+    ]
+  },
+  {
+    "english": [
+      "catch"
+    ],
+    "id": 565,
+    "score": 0,
+    "spanish": [
+      "capturas"
+    ]
+  },
+  {
+    "english": [
+      "mount"
+    ],
+    "id": 566,
+    "score": 0,
+    "spanish": [
+      "monte"
+    ]
+  },
+  {
+    "english": [
+      "wish"
+    ],
+    "id": 567,
+    "score": 0,
+    "spanish": [
+      "desear"
+    ]
+  },
+  {
+    "english": [
+      "sky"
+    ],
+    "id": 568,
+    "score": 0,
+    "spanish": [
+      "cielo"
+    ]
+  },
+  {
+    "english": [
+      "board"
+    ],
+    "id": 569,
+    "score": 0,
+    "spanish": [
+      "bordo"
+    ]
+  },
+  {
+    "english": [
+      "joy"
+    ],
+    "id": 570,
+    "score": 0,
+    "spanish": [
+      "alegr\u00eda"
+    ]
+  },
+  {
+    "english": [
+      "winter"
+    ],
+    "id": 571,
+    "score": 0,
+    "spanish": [
+      "invierno"
+    ]
+  },
+  {
+    "english": [
+      "sat"
+    ],
+    "id": 572,
+    "score": 0,
+    "spanish": [
+      "sat\u00e9lite"
+    ]
+  },
+  {
+    "english": [
+      "written"
+    ],
+    "id": 573,
+    "score": 0,
+    "spanish": [
+      "escrito"
+    ]
+  },
+  {
+    "english": [
+      "wild"
+    ],
+    "id": 574,
+    "score": 0,
+    "spanish": [
+      "salvaje"
+    ]
+  },
+  {
+    "english": [
+      "instrument"
+    ],
+    "id": 575,
+    "score": 0,
+    "spanish": [
+      "instrumento"
+    ]
+  },
+  {
+    "english": [
+      "kept"
+    ],
+    "id": 576,
+    "score": 0,
+    "spanish": [
+      "guardado"
+    ]
+  },
+  {
+    "english": [
+      "glass"
+    ],
+    "id": 577,
+    "score": 0,
+    "spanish": [
+      "vidrio"
+    ]
+  },
+  {
+    "english": [
+      "grass"
+    ],
+    "id": 578,
+    "score": 0,
+    "spanish": [
+      "hierba"
+    ]
+  },
+  {
+    "english": [
+      "cow"
+    ],
+    "id": 579,
+    "score": 0,
+    "spanish": [
+      "vaca"
+    ]
+  },
+  {
+    "english": [
+      "job",
+      "work"
+    ],
+    "id": 580,
+    "score": 0,
+    "spanish": [
+      "trabajo"
+    ]
+  },
+  {
+    "english": [
+      "edge"
+    ],
+    "id": 581,
+    "score": 0,
+    "spanish": [
+      "borde"
+    ]
+  },
+  {
+    "english": [
+      "sign"
+    ],
+    "id": 582,
+    "score": 0,
+    "spanish": [
+      "signo"
+    ]
+  },
+  {
+    "english": [
+      "visit"
+    ],
+    "id": 583,
+    "score": 0,
+    "spanish": [
+      "visita"
+    ]
+  },
+  {
+    "english": [
+      "past"
+    ],
+    "id": 584,
+    "score": 0,
+    "spanish": [
+      "pasado"
+    ]
+  },
+  {
+    "english": [
+      "soft"
+    ],
+    "id": 585,
+    "score": 0,
+    "spanish": [
+      "suave"
+    ]
+  },
+  {
+    "english": [
+      "fun"
+    ],
+    "id": 586,
+    "score": 0,
+    "spanish": [
+      "diversi\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "bright"
+    ],
+    "id": 587,
+    "score": 0,
+    "spanish": [
+      "brillante"
+    ]
+  },
+  {
+    "english": [
+      "gas"
+    ],
+    "id": 588,
+    "score": 0,
+    "spanish": [
+      "gas"
+    ]
+  },
+  {
+    "english": [
+      "weather"
+    ],
+    "id": 589,
+    "score": 0,
+    "spanish": [
+      "tiempo"
+    ]
+  },
+  {
+    "english": [
+      "month"
+    ],
+    "id": 590,
+    "score": 0,
+    "spanish": [
+      "mes"
+    ]
+  },
+  {
+    "english": [
+      "million"
+    ],
+    "id": 591,
+    "score": 0,
+    "spanish": [
+      "millones"
+    ]
+  },
+  {
+    "english": [
+      "bear"
+    ],
+    "id": 592,
+    "score": 0,
+    "spanish": [
+      "soportar"
+    ]
+  },
+  {
+    "english": [
+      "finish"
+    ],
+    "id": 593,
+    "score": 0,
+    "spanish": [
+      "acabado"
+    ]
+  },
+  {
+    "english": [
+      "happy"
+    ],
+    "id": 594,
+    "score": 0,
+    "spanish": [
+      "feliz"
+    ]
+  },
+  {
+    "english": [
+      "hope"
+    ],
+    "id": 595,
+    "score": 0,
+    "spanish": [
+      "esperanza"
+    ]
+  },
+  {
+    "english": [
+      "flower"
+    ],
+    "id": 596,
+    "score": 0,
+    "spanish": [
+      "flor"
+    ]
+  },
+  {
+    "english": [
+      "clothe"
+    ],
+    "id": 597,
+    "score": 0,
+    "spanish": [
+      "vestir"
+    ]
+  },
+  {
+    "english": [
+      "strange"
+    ],
+    "id": 598,
+    "score": 0,
+    "spanish": [
+      "extra\u00f1o"
+    ]
+  },
+  {
+    "english": [
+      "gone"
+    ],
+    "id": 599,
+    "score": 0,
+    "spanish": [
+      "se ha ido"
+    ]
+  },
+  {
+    "english": [
+      "trade"
+    ],
+    "id": 600,
+    "score": 0,
+    "spanish": [
+      "comercio"
+    ]
+  },
+  {
+    "english": [
+      "melody"
+    ],
+    "id": 601,
+    "score": 0,
+    "spanish": [
+      "melod\u00eda"
+    ]
+  },
+  {
+    "english": [
+      "trip"
+    ],
+    "id": 602,
+    "score": 0,
+    "spanish": [
+      "viaje"
+    ]
+  },
+  {
+    "english": [
+      "office"
+    ],
+    "id": 603,
+    "score": 0,
+    "spanish": [
+      "oficina"
+    ]
+  },
+  {
+    "english": [
+      "receive"
+    ],
+    "id": 604,
+    "score": 0,
+    "spanish": [
+      "recibir"
+    ]
+  },
+  {
+    "english": [
+      "row"
+    ],
+    "id": 605,
+    "score": 0,
+    "spanish": [
+      "fila"
+    ]
+  },
+  {
+    "english": [
+      "mouth"
+    ],
+    "id": 606,
+    "score": 0,
+    "spanish": [
+      "boca"
+    ]
+  },
+  {
+    "english": [
+      "exact"
+    ],
+    "id": 607,
+    "score": 0,
+    "spanish": [
+      "exacta"
+    ]
+  },
+  {
+    "english": [
+      "symbol"
+    ],
+    "id": 608,
+    "score": 0,
+    "spanish": [
+      "s\u00edmbolo"
+    ]
+  },
+  {
+    "english": [
+      "die"
+    ],
+    "id": 609,
+    "score": 0,
+    "spanish": [
+      "morir"
+    ]
+  },
+  {
+    "english": [
+      "least"
+    ],
+    "id": 610,
+    "score": 0,
+    "spanish": [
+      "menos"
+    ]
+  },
+  {
+    "english": [
+      "trouble"
+    ],
+    "id": 611,
+    "score": 0,
+    "spanish": [
+      "problema"
+    ]
+  },
+  {
+    "english": [
+      "shout"
+    ],
+    "id": 612,
+    "score": 0,
+    "spanish": [
+      "grito"
+    ]
+  },
+  {
+    "english": [
+      "except"
+    ],
+    "id": 613,
+    "score": 0,
+    "spanish": [
+      "excepto"
+    ]
+  },
+  {
+    "english": [
+      "wrote"
+    ],
+    "id": 614,
+    "score": 0,
+    "spanish": [
+      "escribi\u00f3"
+    ]
+  },
+  {
+    "english": [
+      "seed"
+    ],
+    "id": 615,
+    "score": 0,
+    "spanish": [
+      "semilla"
+    ]
+  },
+  {
+    "english": [
+      "tone"
+    ],
+    "id": 616,
+    "score": 0,
+    "spanish": [
+      "tono"
+    ]
+  },
+  {
+    "english": [
+      "join"
+    ],
+    "id": 617,
+    "score": 0,
+    "spanish": [
+      "unirse"
+    ]
+  },
+  {
+    "english": [
+      "suggest"
+    ],
+    "id": 618,
+    "score": 0,
+    "spanish": [
+      "sugerir"
+    ]
+  },
+  {
+    "english": [
+      "clean"
+    ],
+    "id": 619,
+    "score": 0,
+    "spanish": [
+      "limpia"
+    ]
+  },
+  {
+    "english": [
+      "break"
+    ],
+    "id": 620,
+    "score": 0,
+    "spanish": [
+      "rotura"
+    ]
+  },
+  {
+    "english": [
+      "lady"
+    ],
+    "id": 621,
+    "score": 0,
+    "spanish": [
+      "dama"
+    ]
+  },
+  {
+    "english": [
+      "yard"
+    ],
+    "id": 622,
+    "score": 0,
+    "spanish": [
+      "patio"
+    ]
+  },
+  {
+    "english": [
+      "rise"
+    ],
+    "id": 623,
+    "score": 0,
+    "spanish": [
+      "aumentando"
+    ]
+  },
+  {
+    "english": [
+      "bad"
+    ],
+    "id": 624,
+    "score": 0,
+    "spanish": [
+      "mal"
+    ]
+  },
+  {
+    "english": [
+      "blow"
+    ],
+    "id": 625,
+    "score": 0,
+    "spanish": [
+      "golpe"
+    ]
+  },
+  {
+    "english": [
+      "oil"
+    ],
+    "id": 626,
+    "score": 0,
+    "spanish": [
+      "aceite"
+    ]
+  },
+  {
+    "english": [
+      "blood"
+    ],
+    "id": 627,
+    "score": 0,
+    "spanish": [
+      "sangre"
+    ]
+  },
+  {
+    "english": [
+      "touch"
+    ],
+    "id": 628,
+    "score": 0,
+    "spanish": [
+      "tocar"
+    ]
+  },
+  {
+    "english": [
+      "grew"
+    ],
+    "id": 629,
+    "score": 0,
+    "spanish": [
+      "creci\u00f3"
+    ]
+  },
+  {
+    "english": [
+      "cent"
+    ],
+    "id": 630,
+    "score": 0,
+    "spanish": [
+      "ciento"
+    ]
+  },
+  {
+    "english": [
+      "mix"
+    ],
+    "id": 631,
+    "score": 0,
+    "spanish": [
+      "mezclar"
+    ]
+  },
+  {
+    "english": [
+      "team"
+    ],
+    "id": 632,
+    "score": 0,
+    "spanish": [
+      "equipo"
+    ]
+  },
+  {
+    "english": [
+      "wire"
+    ],
+    "id": 633,
+    "score": 0,
+    "spanish": [
+      "alambre"
+    ]
+  },
+  {
+    "english": [
+      "cost"
+    ],
+    "id": 634,
+    "score": 0,
+    "spanish": [
+      "costo"
+    ]
+  },
+  {
+    "english": [
+      "lost"
+    ],
+    "id": 635,
+    "score": 0,
+    "spanish": [
+      "perdido"
+    ]
+  },
+  {
+    "english": [
+      "brown"
+    ],
+    "id": 636,
+    "score": 0,
+    "spanish": [
+      "marr\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "wear"
+    ],
+    "id": 637,
+    "score": 0,
+    "spanish": [
+      "desgaste"
+    ]
+  },
+  {
+    "english": [
+      "garden"
+    ],
+    "id": 638,
+    "score": 0,
+    "spanish": [
+      "jard\u00edn"
+    ]
+  },
+  {
+    "english": [
+      "equal"
+    ],
+    "id": 639,
+    "score": 0,
+    "spanish": [
+      "igual"
+    ]
+  },
+  {
+    "english": [
+      "sent"
+    ],
+    "id": 640,
+    "score": 0,
+    "spanish": [
+      "enviado"
+    ]
+  },
+  {
+    "english": [
+      "choose"
+    ],
+    "id": 641,
+    "score": 0,
+    "spanish": [
+      "elegir"
+    ]
+  },
+  {
+    "english": [
+      "fell"
+    ],
+    "id": 642,
+    "score": 0,
+    "spanish": [
+      "cay\u00f3"
+    ]
+  },
+  {
+    "english": [
+      "fit"
+    ],
+    "id": 643,
+    "score": 0,
+    "spanish": [
+      "encajar"
+    ]
+  },
+  {
+    "english": [
+      "flow"
+    ],
+    "id": 644,
+    "score": 0,
+    "spanish": [
+      "fluir"
+    ]
+  },
+  {
+    "english": [
+      "fair"
+    ],
+    "id": 645,
+    "score": 0,
+    "spanish": [
+      "justo"
+    ]
+  },
+  {
+    "english": [
+      "bank"
+    ],
+    "id": 646,
+    "score": 0,
+    "spanish": [
+      "banco"
+    ]
+  },
+  {
+    "english": [
+      "collect"
+    ],
+    "id": 647,
+    "score": 0,
+    "spanish": [
+      "recoger"
+    ]
+  },
+  {
+    "english": [
+      "save"
+    ],
+    "id": 648,
+    "score": 0,
+    "spanish": [
+      "guardar"
+    ]
+  },
+  {
+    "english": [
+      "control"
+    ],
+    "id": 649,
+    "score": 0,
+    "spanish": [
+      "el control"
+    ]
+  },
+  {
+    "english": [
+      "decimal"
+    ],
+    "id": 650,
+    "score": 0,
+    "spanish": [
+      "decimal"
+    ]
+  },
+  {
+    "english": [
+      "ear"
+    ],
+    "id": 651,
+    "score": 0,
+    "spanish": [
+      "o\u00eddo"
+    ]
+  },
+  {
+    "english": [
+      "else"
+    ],
+    "id": 652,
+    "score": 0,
+    "spanish": [
+      "dem\u00e1s"
+    ]
+  },
+  {
+    "english": [
+      "quite"
+    ],
+    "id": 653,
+    "score": 0,
+    "spanish": [
+      "bastante"
+    ]
+  },
+  {
+    "english": [
+      "broke"
+    ],
+    "id": 654,
+    "score": 0,
+    "spanish": [
+      "rompi\u00f3"
+    ]
+  },
+  {
+    "english": [
+      "case"
+    ],
+    "id": 655,
+    "score": 0,
+    "spanish": [
+      "caso"
+    ]
+  },
+  {
+    "english": [
+      "middle"
+    ],
+    "id": 656,
+    "score": 0,
+    "spanish": [
+      "medio"
+    ]
+  },
+  {
+    "english": [
+      "kill"
+    ],
+    "id": 657,
+    "score": 0,
+    "spanish": [
+      "matar"
+    ]
+  },
+  {
+    "english": [
+      "son"
+    ],
+    "id": 658,
+    "score": 0,
+    "spanish": [
+      "hijo"
+    ]
+  },
+  {
+    "english": [
+      "lake"
+    ],
+    "id": 659,
+    "score": 0,
+    "spanish": [
+      "lago"
+    ]
+  },
+  {
+    "english": [
+      "moment"
+    ],
+    "id": 660,
+    "score": 0,
+    "spanish": [
+      "momento"
+    ]
+  },
+  {
+    "english": [
+      "scale"
+    ],
+    "id": 661,
+    "score": 0,
+    "spanish": [
+      "escala"
+    ]
+  },
+  {
+    "english": [
+      "loud"
+    ],
+    "id": 662,
+    "score": 0,
+    "spanish": [
+      "fuerte"
+    ]
+  },
+  {
+    "english": [
+      "spring"
+    ],
+    "id": 663,
+    "score": 0,
+    "spanish": [
+      "primavera"
+    ]
+  },
+  {
+    "english": [
+      "observe"
+    ],
+    "id": 664,
+    "score": 0,
+    "spanish": [
+      "observar"
+    ]
+  },
+  {
+    "english": [
+      "child"
+    ],
+    "id": 665,
+    "score": 0,
+    "spanish": [
+      "ni\u00f1o"
+    ]
+  },
+  {
+    "english": [
+      "straight"
+    ],
+    "id": 666,
+    "score": 0,
+    "spanish": [
+      "recta"
+    ]
+  },
+  {
+    "english": [
+      "consonant"
+    ],
+    "id": 667,
+    "score": 0,
+    "spanish": [
+      "consonante"
+    ]
+  },
+  {
+    "english": [
+      "nation"
+    ],
+    "id": 668,
+    "score": 0,
+    "spanish": [
+      "naci\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "dictionary"
+    ],
+    "id": 669,
+    "score": 0,
+    "spanish": [
+      "diccionario"
+    ]
+  },
+  {
+    "english": [
+      "milk"
+    ],
+    "id": 670,
+    "score": 0,
+    "spanish": [
+      "leche"
+    ]
+  },
+  {
+    "english": [
+      "speed"
+    ],
+    "id": 671,
+    "score": 0,
+    "spanish": [
+      "velocidad"
+    ]
+  },
+  {
+    "english": [
+      "method"
+    ],
+    "id": 672,
+    "score": 0,
+    "spanish": [
+      "m\u00e9todo"
+    ]
+  },
+  {
+    "english": [
+      "organ"
+    ],
+    "id": 673,
+    "score": 0,
+    "spanish": [
+      "\u00f3rgano"
+    ]
+  },
+  {
+    "english": [
+      "pay"
+    ],
+    "id": 674,
+    "score": 0,
+    "spanish": [
+      "pagar"
+    ]
+  },
+  {
+    "english": [
+      "age"
+    ],
+    "id": 675,
+    "score": 0,
+    "spanish": [
+      "edad"
+    ]
+  },
+  {
+    "english": [
+      "section"
+    ],
+    "id": 676,
+    "score": 0,
+    "spanish": [
+      "secci\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "dress"
+    ],
+    "id": 677,
+    "score": 0,
+    "spanish": [
+      "vestido"
+    ]
+  },
+  {
+    "english": [
+      "cloud"
+    ],
+    "id": 678,
+    "score": 0,
+    "spanish": [
+      "nube"
+    ]
+  },
+  {
+    "english": [
+      "surprise"
+    ],
+    "id": 679,
+    "score": 0,
+    "spanish": [
+      "sorpresa"
+    ]
+  },
+  {
+    "english": [
+      "quiet"
+    ],
+    "id": 680,
+    "score": 0,
+    "spanish": [
+      "tranquila"
+    ]
+  },
+  {
+    "english": [
+      "stone"
+    ],
+    "id": 681,
+    "score": 0,
+    "spanish": [
+      "piedra"
+    ]
+  },
+  {
+    "english": [
+      "tiny"
+    ],
+    "id": 682,
+    "score": 0,
+    "spanish": [
+      "peque\u00f1o"
+    ]
+  },
+  {
+    "english": [
+      "climb"
+    ],
+    "id": 683,
+    "score": 0,
+    "spanish": [
+      "ascenso"
+    ]
+  },
+  {
+    "english": [
+      "cool"
+    ],
+    "id": 684,
+    "score": 0,
+    "spanish": [
+      "fresco"
+    ]
+  },
+  {
+    "english": [
+      "design"
+    ],
+    "id": 685,
+    "score": 0,
+    "spanish": [
+      "dise\u00f1o"
+    ]
+  },
+  {
+    "english": [
+      "poor"
+    ],
+    "id": 686,
+    "score": 0,
+    "spanish": [
+      "pobre"
+    ]
+  },
+  {
+    "english": [
+      "lot",
+      "much"
+    ],
+    "id": 687,
+    "score": 0,
+    "spanish": [
+      "mucho"
+    ]
+  },
+  {
+    "english": [
+      "experiment"
+    ],
+    "id": 688,
+    "score": 0,
+    "spanish": [
+      "experimento"
+    ]
+  },
+  {
+    "english": [
+      "bottom"
+    ],
+    "id": 689,
+    "score": 0,
+    "spanish": [
+      "inferior"
+    ]
+  },
+  {
+    "english": [
+      "key"
+    ],
+    "id": 690,
+    "score": 0,
+    "spanish": [
+      "clave"
+    ]
+  },
+  {
+    "english": [
+      "iron"
+    ],
+    "id": 691,
+    "score": 0,
+    "spanish": [
+      "hierro"
+    ]
+  },
+  {
+    "english": [
+      "single"
+    ],
+    "id": 692,
+    "score": 0,
+    "spanish": [
+      "sola"
+    ]
+  },
+  {
+    "english": [
+      "stick"
+    ],
+    "id": 693,
+    "score": 0,
+    "spanish": [
+      "palillo"
+    ]
+  },
+  {
+    "english": [
+      "flat"
+    ],
+    "id": 694,
+    "score": 0,
+    "spanish": [
+      "plana"
+    ]
+  },
+  {
+    "english": [
+      "twenty"
+    ],
+    "id": 695,
+    "score": 0,
+    "spanish": [
+      "veinte"
+    ]
+  },
+  {
+    "english": [
+      "skin"
+    ],
+    "id": 696,
+    "score": 0,
+    "spanish": [
+      "piel"
+    ]
+  },
+  {
+    "english": [
+      "smile"
+    ],
+    "id": 697,
+    "score": 0,
+    "spanish": [
+      "sonrisa"
+    ]
+  },
+  {
+    "english": [
+      "crease"
+    ],
+    "id": 698,
+    "score": 0,
+    "spanish": [
+      "pliegue"
+    ]
+  },
+  {
+    "english": [
+      "hole"
+    ],
+    "id": 699,
+    "score": 0,
+    "spanish": [
+      "agujero"
+    ]
+  },
+  {
+    "english": [
+      "jump"
+    ],
+    "id": 700,
+    "score": 0,
+    "spanish": [
+      "saltar"
+    ]
+  },
+  {
+    "english": [
+      "baby"
+    ],
+    "id": 701,
+    "score": 0,
+    "spanish": [
+      "beb\u00e9"
+    ]
+  },
+  {
+    "english": [
+      "eight"
+    ],
+    "id": 702,
+    "score": 0,
+    "spanish": [
+      "ocho"
+    ]
+  },
+  {
+    "english": [
+      "village"
+    ],
+    "id": 703,
+    "score": 0,
+    "spanish": [
+      "pueblo"
+    ]
+  },
+  {
+    "english": [
+      "meet"
+    ],
+    "id": 704,
+    "score": 0,
+    "spanish": [
+      "se re\u00fanen"
+    ]
+  },
+  {
+    "english": [
+      "root"
+    ],
+    "id": 705,
+    "score": 0,
+    "spanish": [
+      "ra\u00edz"
+    ]
+  },
+  {
+    "english": [
+      "buy"
+    ],
+    "id": 706,
+    "score": 0,
+    "spanish": [
+      "comprar"
+    ]
+  },
+  {
+    "english": [
+      "raise"
+    ],
+    "id": 707,
+    "score": 0,
+    "spanish": [
+      "aumentar"
+    ]
+  },
+  {
+    "english": [
+      "solve"
+    ],
+    "id": 708,
+    "score": 0,
+    "spanish": [
+      "resolver"
+    ]
+  },
+  {
+    "english": [
+      "metal"
+    ],
+    "id": 709,
+    "score": 0,
+    "spanish": [
+      "de metal"
+    ]
+  },
+  {
+    "english": [
+      "push"
+    ],
+    "id": 711,
+    "score": 0,
+    "spanish": [
+      "empujar"
+    ]
+  },
+  {
+    "english": [
+      "seven"
+    ],
+    "id": 712,
+    "score": 0,
+    "spanish": [
+      "siete"
+    ]
+  },
+  {
+    "english": [
+      "paragraph"
+    ],
+    "id": 713,
+    "score": 0,
+    "spanish": [
+      "p\u00e1rrafo"
+    ]
+  },
+  {
+    "english": [
+      "third"
+    ],
+    "id": 714,
+    "score": 0,
+    "spanish": [
+      "tercero"
+    ]
+  },
+  {
+    "english": [
+      "shall"
+    ],
+    "id": 715,
+    "score": 0,
+    "spanish": [
+      "deber\u00e1"
+    ]
+  },
+  {
+    "english": [
+      "held"
+    ],
+    "id": 716,
+    "score": 0,
+    "spanish": [
+      "en espera"
+    ]
+  },
+  {
+    "english": [
+      "hair"
+    ],
+    "id": 717,
+    "score": 0,
+    "spanish": [
+      "pelo"
+    ]
+  },
+  {
+    "english": [
+      "describe"
+    ],
+    "id": 718,
+    "score": 0,
+    "spanish": [
+      "describir"
+    ]
+  },
+  {
+    "english": [
+      "cook"
+    ],
+    "id": 719,
+    "score": 0,
+    "spanish": [
+      "cocinero"
+    ]
+  },
+  {
+    "english": [
+      "floor"
+    ],
+    "id": 720,
+    "score": 0,
+    "spanish": [
+      "piso"
+    ]
+  },
+  {
+    "english": [
+      "either"
+    ],
+    "id": 721,
+    "score": 0,
+    "spanish": [
+      "ya sea"
+    ]
+  },
+  {
+    "english": [
+      "result"
+    ],
+    "id": 722,
+    "score": 0,
+    "spanish": [
+      "resultado"
+    ]
+  },
+  {
+    "english": [
+      "burn"
+    ],
+    "id": 723,
+    "score": 0,
+    "spanish": [
+      "quemar"
+    ]
+  },
+  {
+    "english": [
+      "hill"
+    ],
+    "id": 724,
+    "score": 0,
+    "spanish": [
+      "colina"
+    ]
+  },
+  {
+    "english": [
+      "safe"
+    ],
+    "id": 725,
+    "score": 0,
+    "spanish": [
+      "seguro"
+    ]
+  },
+  {
+    "english": [
+      "cat"
+    ],
+    "id": 726,
+    "score": 0,
+    "spanish": [
+      "gato"
+    ]
+  },
+  {
+    "english": [
+      "century"
+    ],
+    "id": 727,
+    "score": 0,
+    "spanish": [
+      "siglo"
+    ]
+  },
+  {
+    "english": [
+      "consider"
+    ],
+    "id": 728,
+    "score": 0,
+    "spanish": [
+      "considerar"
+    ]
+  },
+  {
+    "english": [
+      "type"
+    ],
+    "id": 729,
+    "score": 0,
+    "spanish": [
+      "tipo"
+    ]
+  },
+  {
+    "english": [
+      "law"
+    ],
+    "id": 730,
+    "score": 0,
+    "spanish": [
+      "ley"
+    ]
+  },
+  {
+    "english": [
+      "bit"
+    ],
+    "id": 731,
+    "score": 0,
+    "spanish": [
+      "bit"
+    ]
+  },
+  {
+    "english": [
+      "coast"
+    ],
+    "id": 732,
+    "score": 0,
+    "spanish": [
+      "costa"
+    ]
+  },
+  {
+    "english": [
+      "copy"
+    ],
+    "id": 733,
+    "score": 0,
+    "spanish": [
+      "copia"
+    ]
+  },
+  {
+    "english": [
+      "phrase"
+    ],
+    "id": 734,
+    "score": 0,
+    "spanish": [
+      "frase"
+    ]
+  },
+  {
+    "english": [
+      "silent"
+    ],
+    "id": 735,
+    "score": 0,
+    "spanish": [
+      "silencio"
+    ]
+  },
+  {
+    "english": [
+      "tall"
+    ],
+    "id": 736,
+    "score": 0,
+    "spanish": [
+      "de altura"
+    ]
+  },
+  {
+    "english": [
+      "sand"
+    ],
+    "id": 737,
+    "score": 0,
+    "spanish": [
+      "arena"
+    ]
+  },
+  {
+    "english": [
+      "soil"
+    ],
+    "id": 738,
+    "score": 0,
+    "spanish": [
+      "suelo"
+    ]
+  },
+  {
+    "english": [
+      "roll"
+    ],
+    "id": 739,
+    "score": 0,
+    "spanish": [
+      "rollo"
+    ]
+  },
+  {
+    "english": [
+      "temperature"
+    ],
+    "id": 740,
+    "score": 0,
+    "spanish": [
+      "temperatura"
+    ]
+  },
+  {
+    "english": [
+      "finger"
+    ],
+    "id": 741,
+    "score": 0,
+    "spanish": [
+      "dedo"
+    ]
+  },
+  {
+    "english": [
+      "industry"
+    ],
+    "id": 742,
+    "score": 0,
+    "spanish": [
+      "industria"
+    ]
+  },
+  {
+    "english": [
+      "value"
+    ],
+    "id": 743,
+    "score": 0,
+    "spanish": [
+      "valor"
+    ]
+  },
+  {
+    "english": [
+      "fight"
+    ],
+    "id": 744,
+    "score": 0,
+    "spanish": [
+      "lucha"
+    ]
+  },
+  {
+    "english": [
+      "lie"
+    ],
+    "id": 745,
+    "score": 0,
+    "spanish": [
+      "mentira"
+    ]
+  },
+  {
+    "english": [
+      "beat"
+    ],
+    "id": 746,
+    "score": 0,
+    "spanish": [
+      "batir"
+    ]
+  },
+  {
+    "english": [
+      "excite"
+    ],
+    "id": 747,
+    "score": 0,
+    "spanish": [
+      "excitar"
+    ]
+  },
+  {
+    "english": [
+      "natural"
+    ],
+    "id": 748,
+    "score": 0,
+    "spanish": [
+      "naturales"
+    ]
+  },
+  {
+    "english": [
+      "view"
+    ],
+    "id": 749,
+    "score": 0,
+    "spanish": [
+      "vista"
+    ]
+  },
+  {
+    "english": [
+      "sense"
+    ],
+    "id": 750,
+    "score": 0,
+    "spanish": [
+      "sentido"
+    ]
+  },
+  {
+    "english": [
+      "capital"
+    ],
+    "id": 751,
+    "score": 0,
+    "spanish": [
+      "de capital"
+    ]
+  },
+  {
+    "english": [
+      "won\u2019t"
+    ],
+    "id": 752,
+    "score": 0,
+    "spanish": [
+      "no lo har\u00e1"
+    ]
+  },
+  {
+    "english": [
+      "chair"
+    ],
+    "id": 753,
+    "score": 0,
+    "spanish": [
+      "silla"
+    ]
+  },
+  {
+    "english": [
+      "danger"
+    ],
+    "id": 754,
+    "score": 0,
+    "spanish": [
+      "peligro"
+    ]
+  },
+  {
+    "english": [
+      "fruit"
+    ],
+    "id": 755,
+    "score": 0,
+    "spanish": [
+      "fruta"
+    ]
+  },
+  {
+    "english": [
+      "rich"
+    ],
+    "id": 756,
+    "score": 0,
+    "spanish": [
+      "rica"
+    ]
+  },
+  {
+    "english": [
+      "thick"
+    ],
+    "id": 757,
+    "score": 0,
+    "spanish": [
+      "de espesor"
+    ]
+  },
+  {
+    "english": [
+      "soldier"
+    ],
+    "id": 758,
+    "score": 0,
+    "spanish": [
+      "soldado"
+    ]
+  },
+  {
+    "english": [
+      "process"
+    ],
+    "id": 759,
+    "score": 0,
+    "spanish": [
+      "proceso"
+    ]
+  },
+  {
+    "english": [
+      "operate"
+    ],
+    "id": 760,
+    "score": 0,
+    "spanish": [
+      "operar"
+    ]
+  },
+  {
+    "english": [
+      "practice"
+    ],
+    "id": 761,
+    "score": 0,
+    "spanish": [
+      "pr\u00e1ctica"
+    ]
+  },
+  {
+    "english": [
+      "separate"
+    ],
+    "id": 762,
+    "score": 0,
+    "spanish": [
+      "separada"
+    ]
+  },
+  {
+    "english": [
+      "difficult"
+    ],
+    "id": 763,
+    "score": 0,
+    "spanish": [
+      "dif\u00edcil"
+    ]
+  },
+  {
+    "english": [
+      "doctor"
+    ],
+    "id": 764,
+    "score": 0,
+    "spanish": [
+      "m\u00e9dico"
+    ]
+  },
+  {
+    "english": [
+      "please"
+    ],
+    "id": 765,
+    "score": 0,
+    "spanish": [
+      "por favor"
+    ]
+  },
+  {
+    "english": [
+      "protect"
+    ],
+    "id": 766,
+    "score": 0,
+    "spanish": [
+      "proteger"
+    ]
+  },
+  {
+    "english": [
+      "noon"
+    ],
+    "id": 767,
+    "score": 0,
+    "spanish": [
+      "mediod\u00eda"
+    ]
+  },
+  {
+    "english": [
+      "crop"
+    ],
+    "id": 768,
+    "score": 0,
+    "spanish": [
+      "de cultivos"
+    ]
+  },
+  {
+    "english": [
+      "modern"
+    ],
+    "id": 769,
+    "score": 0,
+    "spanish": [
+      "moderno"
+    ]
+  },
+  {
+    "english": [
+      "element"
+    ],
+    "id": 770,
+    "score": 0,
+    "spanish": [
+      "elemento"
+    ]
+  },
+  {
+    "english": [
+      "hit"
+    ],
+    "id": 771,
+    "score": 0,
+    "spanish": [
+      "golpear"
+    ]
+  },
+  {
+    "english": [
+      "student"
+    ],
+    "id": 772,
+    "score": 0,
+    "spanish": [
+      "estudiante"
+    ]
+  },
+  {
+    "english": [
+      "corner"
+    ],
+    "id": 773,
+    "score": 0,
+    "spanish": [
+      "esquina"
+    ]
+  },
+  {
+    "english": [
+      "party"
+    ],
+    "id": 774,
+    "score": 0,
+    "spanish": [
+      "partido"
+    ]
+  },
+  {
+    "english": [
+      "supply"
+    ],
+    "id": 775,
+    "score": 0,
+    "spanish": [
+      "suministro"
+    ]
+  },
+  {
+    "english": [
+      "whose"
+    ],
+    "id": 776,
+    "score": 0,
+    "spanish": [
+      "cuya"
+    ]
+  },
+  {
+    "english": [
+      "locate"
+    ],
+    "id": 777,
+    "score": 0,
+    "spanish": [
+      "localizar"
+    ]
+  },
+  {
+    "english": [
+      "ring"
+    ],
+    "id": 778,
+    "score": 0,
+    "spanish": [
+      "anillo"
+    ]
+  },
+  {
+    "english": [
+      "character"
+    ],
+    "id": 779,
+    "score": 0,
+    "spanish": [
+      "car\u00e1cter"
+    ]
+  },
+  {
+    "english": [
+      "insect"
+    ],
+    "id": 780,
+    "score": 0,
+    "spanish": [
+      "insecto"
+    ]
+  },
+  {
+    "english": [
+      "caught"
+    ],
+    "id": 781,
+    "score": 0,
+    "spanish": [
+      "capturado"
+    ]
+  },
+  {
+    "english": [
+      "period"
+    ],
+    "id": 782,
+    "score": 0,
+    "spanish": [
+      "per\u00edodo"
+    ]
+  },
+  {
+    "english": [
+      "indicate"
+    ],
+    "id": 783,
+    "score": 0,
+    "spanish": [
+      "indicar"
+    ]
+  },
+  {
+    "english": [
+      "radio"
+    ],
+    "id": 784,
+    "score": 0,
+    "spanish": [
+      "Radio"
+    ]
+  },
+  {
+    "english": [
+      "spoke"
+    ],
+    "id": 785,
+    "score": 0,
+    "spanish": [
+      "habl\u00f3"
+    ]
+  },
+  {
+    "english": [
+      "atom"
+    ],
+    "id": 786,
+    "score": 0,
+    "spanish": [
+      "\u00e1tomo"
+    ]
+  },
+  {
+    "english": [
+      "human"
+    ],
+    "id": 787,
+    "score": 0,
+    "spanish": [
+      "humana"
+    ]
+  },
+  {
+    "english": [
+      "history"
+    ],
+    "id": 788,
+    "score": 0,
+    "spanish": [
+      "historia"
+    ]
+  },
+  {
+    "english": [
+      "effect"
+    ],
+    "id": 789,
+    "score": 0,
+    "spanish": [
+      "efecto"
+    ]
+  },
+  {
+    "english": [
+      "electric"
+    ],
+    "id": 790,
+    "score": 0,
+    "spanish": [
+      "el\u00e9ctrica"
+    ]
+  },
+  {
+    "english": [
+      "expect"
+    ],
+    "id": 791,
+    "score": 0,
+    "spanish": [
+      "esperar"
+    ]
+  },
+  {
+    "english": [
+      "bone"
+    ],
+    "id": 792,
+    "score": 0,
+    "spanish": [
+      "hueso"
+    ]
+  },
+  {
+    "english": [
+      "rail"
+    ],
+    "id": 793,
+    "score": 0,
+    "spanish": [
+      "ferrocarril"
+    ]
+  },
+  {
+    "english": [
+      "imagine"
+    ],
+    "id": 794,
+    "score": 0,
+    "spanish": [
+      "imaginar"
+    ]
+  },
+  {
+    "english": [
+      "provide"
+    ],
+    "id": 795,
+    "score": 0,
+    "spanish": [
+      "proporcionar"
+    ]
+  },
+  {
+    "english": [
+      "agree"
+    ],
+    "id": 796,
+    "score": 0,
+    "spanish": [
+      "acuerdo"
+    ]
+  },
+  {
+    "english": [
+      "thus"
+    ],
+    "id": 797,
+    "score": 0,
+    "spanish": [
+      "por tanto,"
+    ]
+  },
+  {
+    "english": [
+      "gentle"
+    ],
+    "id": 798,
+    "score": 0,
+    "spanish": [
+      "suave"
+    ]
+  },
+  {
+    "english": [
+      "woman"
+    ],
+    "id": 799,
+    "score": 0,
+    "spanish": [
+      "mujer"
+    ]
+  },
+  {
+    "english": [
+      "captain"
+    ],
+    "id": 800,
+    "score": 0,
+    "spanish": [
+      "capit\u00e1n"
+    ]
+  },
+  {
+    "english": [
+      "guess"
+    ],
+    "id": 801,
+    "score": 0,
+    "spanish": [
+      "adivinar"
+    ]
+  },
+  {
+    "english": [
+      "necessary"
+    ],
+    "id": 802,
+    "score": 0,
+    "spanish": [
+      "necesario"
+    ]
+  },
+  {
+    "english": [
+      "sharp"
+    ],
+    "id": 803,
+    "score": 0,
+    "spanish": [
+      "agudo"
+    ]
+  },
+  {
+    "english": [
+      "wing"
+    ],
+    "id": 804,
+    "score": 0,
+    "spanish": [
+      "ala"
+    ]
+  },
+  {
+    "english": [
+      "create"
+    ],
+    "id": 805,
+    "score": 0,
+    "spanish": [
+      "crear"
+    ]
+  },
+  {
+    "english": [
+      "neighbor"
+    ],
+    "id": 806,
+    "score": 0,
+    "spanish": [
+      "vecino"
+    ]
+  },
+  {
+    "english": [
+      "wash"
+    ],
+    "id": 807,
+    "score": 0,
+    "spanish": [
+      "lavado"
+    ]
+  },
+  {
+    "english": [
+      "bat"
+    ],
+    "id": 808,
+    "score": 0,
+    "spanish": [
+      "bate"
+    ]
+  },
+  {
+    "english": [
+      "rather"
+    ],
+    "id": 809,
+    "score": 0,
+    "spanish": [
+      "m\u00e1s bien"
+    ]
+  },
+  {
+    "english": [
+      "crowd"
+    ],
+    "id": 810,
+    "score": 0,
+    "spanish": [
+      "multitud"
+    ]
+  },
+  {
+    "english": [
+      "corn"
+    ],
+    "id": 811,
+    "score": 0,
+    "spanish": [
+      "ma\u00edz"
+    ]
+  },
+  {
+    "english": [
+      "compare"
+    ],
+    "id": 812,
+    "score": 0,
+    "spanish": [
+      "comparar"
+    ]
+  },
+  {
+    "english": [
+      "poem"
+    ],
+    "id": 813,
+    "score": 0,
+    "spanish": [
+      "poema"
+    ]
+  },
+  {
+    "english": [
+      "string"
+    ],
+    "id": 814,
+    "score": 0,
+    "spanish": [
+      "cadena"
+    ]
+  },
+  {
+    "english": [
+      "bell"
+    ],
+    "id": 815,
+    "score": 0,
+    "spanish": [
+      "campana"
+    ]
+  },
+  {
+    "english": [
+      "depend"
+    ],
+    "id": 816,
+    "score": 0,
+    "spanish": [
+      "depender\u00e1"
+    ]
+  },
+  {
+    "english": [
+      "meat"
+    ],
+    "id": 817,
+    "score": 0,
+    "spanish": [
+      "carne"
+    ]
+  },
+  {
+    "english": [
+      "rub"
+    ],
+    "id": 818,
+    "score": 0,
+    "spanish": [
+      "frotar"
+    ]
+  },
+  {
+    "english": [
+      "tube"
+    ],
+    "id": 819,
+    "score": 0,
+    "spanish": [
+      "tubo"
+    ]
+  },
+  {
+    "english": [
+      "famous"
+    ],
+    "id": 820,
+    "score": 0,
+    "spanish": [
+      "famoso"
+    ]
+  },
+  {
+    "english": [
+      "dollar"
+    ],
+    "id": 821,
+    "score": 0,
+    "spanish": [
+      "d\u00f3lar"
+    ]
+  },
+  {
+    "english": [
+      "stream"
+    ],
+    "id": 822,
+    "score": 0,
+    "spanish": [
+      "corriente"
+    ]
+  },
+  {
+    "english": [
+      "fear"
+    ],
+    "id": 823,
+    "score": 0,
+    "spanish": [
+      "miedo"
+    ]
+  },
+  {
+    "english": [
+      "sight"
+    ],
+    "id": 824,
+    "score": 0,
+    "spanish": [
+      "vista"
+    ]
+  },
+  {
+    "english": [
+      "thin"
+    ],
+    "id": 825,
+    "score": 0,
+    "spanish": [
+      "delgado"
+    ]
+  },
+  {
+    "english": [
+      "triangle"
+    ],
+    "id": 826,
+    "score": 0,
+    "spanish": [
+      "tri\u00e1ngulo"
+    ]
+  },
+  {
+    "english": [
+      "planet"
+    ],
+    "id": 827,
+    "score": 0,
+    "spanish": [
+      "planeta"
+    ]
+  },
+  {
+    "english": [
+      "hurry"
+    ],
+    "id": 828,
+    "score": 0,
+    "spanish": [
+      "prisa"
+    ]
+  },
+  {
+    "english": [
+      "chief"
+    ],
+    "id": 829,
+    "score": 0,
+    "spanish": [
+      "jefe"
+    ]
+  },
+  {
+    "english": [
+      "colony"
+    ],
+    "id": 830,
+    "score": 0,
+    "spanish": [
+      "colonia"
+    ]
+  },
+  {
+    "english": [
+      "clock"
+    ],
+    "id": 831,
+    "score": 0,
+    "spanish": [
+      "reloj"
+    ]
+  },
+  {
+    "english": [
+      "mine"
+    ],
+    "id": 832,
+    "score": 0,
+    "spanish": [
+      "mina"
+    ]
+  },
+  {
+    "english": [
+      "tie"
+    ],
+    "id": 833,
+    "score": 0,
+    "spanish": [
+      "empate"
+    ]
+  },
+  {
+    "english": [
+      "enter"
+    ],
+    "id": 834,
+    "score": 0,
+    "spanish": [
+      "entrar"
+    ]
+  },
+  {
+    "english": [
+      "major"
+    ],
+    "id": 835,
+    "score": 0,
+    "spanish": [
+      "importante"
+    ]
+  },
+  {
+    "english": [
+      "fresh"
+    ],
+    "id": 836,
+    "score": 0,
+    "spanish": [
+      "fresco"
+    ]
+  },
+  {
+    "english": [
+      "search"
+    ],
+    "id": 837,
+    "score": 0,
+    "spanish": [
+      "b\u00fasqueda"
+    ]
+  },
+  {
+    "english": [
+      "send"
+    ],
+    "id": 838,
+    "score": 0,
+    "spanish": [
+      "enviar"
+    ]
+  },
+  {
+    "english": [
+      "yellow"
+    ],
+    "id": 839,
+    "score": 0,
+    "spanish": [
+      "amarillo"
+    ]
+  },
+  {
+    "english": [
+      "gun"
+    ],
+    "id": 840,
+    "score": 0,
+    "spanish": [
+      "pistola"
+    ]
+  },
+  {
+    "english": [
+      "allow"
+    ],
+    "id": 841,
+    "score": 0,
+    "spanish": [
+      "permitir"
+    ]
+  },
+  {
+    "english": [
+      "print"
+    ],
+    "id": 842,
+    "score": 0,
+    "spanish": [
+      "print"
+    ]
+  },
+  {
+    "english": [
+      "dead"
+    ],
+    "id": 843,
+    "score": 0,
+    "spanish": [
+      "muerto"
+    ]
+  },
+  {
+    "english": [
+      "spot"
+    ],
+    "id": 844,
+    "score": 0,
+    "spanish": [
+      "lugar"
+    ]
+  },
+  {
+    "english": [
+      "desert"
+    ],
+    "id": 845,
+    "score": 0,
+    "spanish": [
+      "desierto"
+    ]
+  },
+  {
+    "english": [
+      "suit"
+    ],
+    "id": 846,
+    "score": 0,
+    "spanish": [
+      "traje"
+    ]
+  },
+  {
+    "english": [
+      "current"
+    ],
+    "id": 847,
+    "score": 0,
+    "spanish": [
+      "actual"
+    ]
+  },
+  {
+    "english": [
+      "lift"
+    ],
+    "id": 848,
+    "score": 0,
+    "spanish": [
+      "ascensor"
+    ]
+  },
+  {
+    "english": [
+      "rose"
+    ],
+    "id": 849,
+    "score": 0,
+    "spanish": [
+      "rosa"
+    ]
+  },
+  {
+    "english": [
+      "arrive"
+    ],
+    "id": 850,
+    "score": 0,
+    "spanish": [
+      "llegar"
+    ]
+  },
+  {
+    "english": [
+      "master"
+    ],
+    "id": 851,
+    "score": 0,
+    "spanish": [
+      "master"
+    ]
+  },
+  {
+    "english": [
+      "track"
+    ],
+    "id": 852,
+    "score": 0,
+    "spanish": [
+      "pista"
+    ]
+  },
+  {
+    "english": [
+      "parent"
+    ],
+    "id": 853,
+    "score": 0,
+    "spanish": [
+      "padre"
+    ]
+  },
+  {
+    "english": [
+      "shore"
+    ],
+    "id": 854,
+    "score": 0,
+    "spanish": [
+      "orilla"
+    ]
+  },
+  {
+    "english": [
+      "division"
+    ],
+    "id": 855,
+    "score": 0,
+    "spanish": [
+      "divisi\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "sheet"
+    ],
+    "id": 856,
+    "score": 0,
+    "spanish": [
+      "hoja"
+    ]
+  },
+  {
+    "english": [
+      "substance"
+    ],
+    "id": 857,
+    "score": 0,
+    "spanish": [
+      "sustancia"
+    ]
+  },
+  {
+    "english": [
+      "favor"
+    ],
+    "id": 858,
+    "score": 0,
+    "spanish": [
+      "favorecer"
+    ]
+  },
+  {
+    "english": [
+      "connect"
+    ],
+    "id": 859,
+    "score": 0,
+    "spanish": [
+      "conectar"
+    ]
+  },
+  {
+    "english": [
+      "post"
+    ],
+    "id": 860,
+    "score": 0,
+    "spanish": [
+      "mensaje"
+    ]
+  },
+  {
+    "english": [
+      "spend"
+    ],
+    "id": 861,
+    "score": 0,
+    "spanish": [
+      "pasar"
+    ]
+  },
+  {
+    "english": [
+      "chord"
+    ],
+    "id": 862,
+    "score": 0,
+    "spanish": [
+      "acorde"
+    ]
+  },
+  {
+    "english": [
+      "fat"
+    ],
+    "id": 863,
+    "score": 0,
+    "spanish": [
+      "grasa"
+    ]
+  },
+  {
+    "english": [
+      "glad"
+    ],
+    "id": 864,
+    "score": 0,
+    "spanish": [
+      "contento"
+    ]
+  },
+  {
+    "english": [
+      "original"
+    ],
+    "id": 865,
+    "score": 0,
+    "spanish": [
+      "originales"
+    ]
+  },
+  {
+    "english": [
+      "share"
+    ],
+    "id": 866,
+    "score": 0,
+    "spanish": [
+      "cuota"
+    ]
+  },
+  {
+    "english": [
+      "station"
+    ],
+    "id": 867,
+    "score": 0,
+    "spanish": [
+      "estaci\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "dad"
+    ],
+    "id": 868,
+    "score": 0,
+    "spanish": [
+      "pap\u00e1"
+    ]
+  },
+  {
+    "english": [
+      "bread"
+    ],
+    "id": 869,
+    "score": 0,
+    "spanish": [
+      "pan"
+    ]
+  },
+  {
+    "english": [
+      "charge"
+    ],
+    "id": 870,
+    "score": 0,
+    "spanish": [
+      "cobrar"
+    ]
+  },
+  {
+    "english": [
+      "proper"
+    ],
+    "id": 871,
+    "score": 0,
+    "spanish": [
+      "adecuada"
+    ]
+  },
+  {
+    "english": [
+      "bar"
+    ],
+    "id": 872,
+    "score": 0,
+    "spanish": [
+      "barra"
+    ]
+  },
+  {
+    "english": [
+      "offer"
+    ],
+    "id": 873,
+    "score": 0,
+    "spanish": [
+      "oferta"
+    ]
+  },
+  {
+    "english": [
+      "segment"
+    ],
+    "id": 874,
+    "score": 0,
+    "spanish": [
+      "segmento"
+    ]
+  },
+  {
+    "english": [
+      "slave"
+    ],
+    "id": 875,
+    "score": 0,
+    "spanish": [
+      "esclavo"
+    ]
+  },
+  {
+    "english": [
+      "duck"
+    ],
+    "id": 876,
+    "score": 0,
+    "spanish": [
+      "pato"
+    ]
+  },
+  {
+    "english": [
+      "instant"
+    ],
+    "id": 877,
+    "score": 0,
+    "spanish": [
+      "instant\u00e1nea"
+    ]
+  },
+  {
+    "english": [
+      "market"
+    ],
+    "id": 878,
+    "score": 0,
+    "spanish": [
+      "mercado"
+    ]
+  },
+  {
+    "english": [
+      "degree"
+    ],
+    "id": 879,
+    "score": 0,
+    "spanish": [
+      "grado"
+    ]
+  },
+  {
+    "english": [
+      "populate"
+    ],
+    "id": 880,
+    "score": 0,
+    "spanish": [
+      "poblar"
+    ]
+  },
+  {
+    "english": [
+      "chick"
+    ],
+    "id": 881,
+    "score": 0,
+    "spanish": [
+      "polluelo"
+    ]
+  },
+  {
+    "english": [
+      "dear"
+    ],
+    "id": 882,
+    "score": 0,
+    "spanish": [
+      "querido"
+    ]
+  },
+  {
+    "english": [
+      "enemy"
+    ],
+    "id": 883,
+    "score": 0,
+    "spanish": [
+      "enemigo"
+    ]
+  },
+  {
+    "english": [
+      "reply"
+    ],
+    "id": 884,
+    "score": 0,
+    "spanish": [
+      "responder"
+    ]
+  },
+  {
+    "english": [
+      "drink"
+    ],
+    "id": 885,
+    "score": 0,
+    "spanish": [
+      "bebida"
+    ]
+  },
+  {
+    "english": [
+      "occur"
+    ],
+    "id": 886,
+    "score": 0,
+    "spanish": [
+      "producirse"
+    ]
+  },
+  {
+    "english": [
+      "support"
+    ],
+    "id": 887,
+    "score": 0,
+    "spanish": [
+      "apoyo"
+    ]
+  },
+  {
+    "english": [
+      "speech"
+    ],
+    "id": 888,
+    "score": 0,
+    "spanish": [
+      "discurso"
+    ]
+  },
+  {
+    "english": [
+      "nature"
+    ],
+    "id": 889,
+    "score": 0,
+    "spanish": [
+      "naturaleza"
+    ]
+  },
+  {
+    "english": [
+      "range"
+    ],
+    "id": 890,
+    "score": 0,
+    "spanish": [
+      "alcance"
+    ]
+  },
+  {
+    "english": [
+      "steam"
+    ],
+    "id": 891,
+    "score": 0,
+    "spanish": [
+      "vapor"
+    ]
+  },
+  {
+    "english": [
+      "motion"
+    ],
+    "id": 892,
+    "score": 0,
+    "spanish": [
+      "movimiento"
+    ]
+  },
+  {
+    "english": [
+      "path"
+    ],
+    "id": 893,
+    "score": 0,
+    "spanish": [
+      "camino"
+    ]
+  },
+  {
+    "english": [
+      "liquid"
+    ],
+    "id": 894,
+    "score": 0,
+    "spanish": [
+      "l\u00edquido"
+    ]
+  },
+  {
+    "english": [
+      "log"
+    ],
+    "id": 895,
+    "score": 0,
+    "spanish": [
+      "log"
+    ]
+  },
+  {
+    "english": [
+      "meant"
+    ],
+    "id": 896,
+    "score": 0,
+    "spanish": [
+      "significado"
+    ]
+  },
+  {
+    "english": [
+      "quotient"
+    ],
+    "id": 897,
+    "score": 0,
+    "spanish": [
+      "cociente"
+    ]
+  },
+  {
+    "english": [
+      "teeth"
+    ],
+    "id": 898,
+    "score": 0,
+    "spanish": [
+      "dientes"
+    ]
+  },
+  {
+    "english": [
+      "shell"
+    ],
+    "id": 899,
+    "score": 0,
+    "spanish": [
+      "concha"
+    ]
+  },
+  {
+    "english": [
+      "neck"
+    ],
+    "id": 900,
+    "score": 0,
+    "spanish": [
+      "cuello"
+    ]
+  },
+  {
+    "english": [
+      "oxygen"
+    ],
+    "id": 901,
+    "score": 0,
+    "spanish": [
+      "ox\u00edgeno"
+    ]
+  },
+  {
+    "english": [
+      "sugar"
+    ],
+    "id": 902,
+    "score": 0,
+    "spanish": [
+      "az\u00facar"
+    ]
+  },
+  {
+    "english": [
+      "death"
+    ],
+    "id": 903,
+    "score": 0,
+    "spanish": [
+      "muerte"
+    ]
+  },
+  {
+    "english": [
+      "pretty"
+    ],
+    "id": 904,
+    "score": 0,
+    "spanish": [
+      "bastante"
+    ]
+  },
+  {
+    "english": [
+      "skill"
+    ],
+    "id": 905,
+    "score": 0,
+    "spanish": [
+      "habilidad"
+    ]
+  },
+  {
+    "english": [
+      "women"
+    ],
+    "id": 906,
+    "score": 0,
+    "spanish": [
+      "mujeres"
+    ]
+  },
+  {
+    "english": [
+      "season"
+    ],
+    "id": 907,
+    "score": 0,
+    "spanish": [
+      "temporada"
+    ]
+  },
+  {
+    "english": [
+      "solution"
+    ],
+    "id": 908,
+    "score": 0,
+    "spanish": [
+      "soluci\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "magnet"
+    ],
+    "id": 909,
+    "score": 0,
+    "spanish": [
+      "im\u00e1n"
+    ]
+  },
+  {
+    "english": [
+      "silver"
+    ],
+    "id": 910,
+    "score": 0,
+    "spanish": [
+      "plata"
+    ]
+  },
+  {
+    "english": [
+      "thank"
+    ],
+    "id": 911,
+    "score": 0,
+    "spanish": [
+      "gracias"
+    ]
+  },
+  {
+    "english": [
+      "branch"
+    ],
+    "id": 912,
+    "score": 0,
+    "spanish": [
+      "rama"
+    ]
+  },
+  {
+    "english": [
+      "match"
+    ],
+    "id": 913,
+    "score": 0,
+    "spanish": [
+      "partido"
+    ]
+  },
+  {
+    "english": [
+      "suffix"
+    ],
+    "id": 914,
+    "score": 0,
+    "spanish": [
+      "sufijo"
+    ]
+  },
+  {
+    "english": [
+      "especially"
+    ],
+    "id": 915,
+    "score": 0,
+    "spanish": [
+      "especialmente"
+    ]
+  },
+  {
+    "english": [
+      "fig"
+    ],
+    "id": 916,
+    "score": 0,
+    "spanish": [
+      "higo"
+    ]
+  },
+  {
+    "english": [
+      "afraid"
+    ],
+    "id": 917,
+    "score": 0,
+    "spanish": [
+      "miedo"
+    ]
+  },
+  {
+    "english": [
+      "huge"
+    ],
+    "id": 918,
+    "score": 0,
+    "spanish": [
+      "enorme"
+    ]
+  },
+  {
+    "english": [
+      "sister"
+    ],
+    "id": 919,
+    "score": 0,
+    "spanish": [
+      "hermana"
+    ]
+  },
+  {
+    "english": [
+      "steel"
+    ],
+    "id": 920,
+    "score": 0,
+    "spanish": [
+      "acero"
+    ]
+  },
+  {
+    "english": [
+      "discuss"
+    ],
+    "id": 921,
+    "score": 0,
+    "spanish": [
+      "discutir"
+    ]
+  },
+  {
+    "english": [
+      "forward"
+    ],
+    "id": 922,
+    "score": 0,
+    "spanish": [
+      "adelante"
+    ]
+  },
+  {
+    "english": [
+      "similar"
+    ],
+    "id": 923,
+    "score": 0,
+    "spanish": [
+      "similar"
+    ]
+  },
+  {
+    "english": [
+      "guide"
+    ],
+    "id": 924,
+    "score": 0,
+    "spanish": [
+      "guiar"
+    ]
+  },
+  {
+    "english": [
+      "experience"
+    ],
+    "id": 925,
+    "score": 0,
+    "spanish": [
+      "experiencia"
+    ]
+  },
+  {
+    "english": [
+      "score"
+    ],
+    "id": 926,
+    "score": 0,
+    "spanish": [
+      "puntuaci\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "apple"
+    ],
+    "id": 927,
+    "score": 0,
+    "spanish": [
+      "manzana"
+    ]
+  },
+  {
+    "english": [
+      "bought"
+    ],
+    "id": 928,
+    "score": 0,
+    "spanish": [
+      "comprado"
+    ]
+  },
+  {
+    "english": [
+      "led"
+    ],
+    "id": 929,
+    "score": 0,
+    "spanish": [
+      "llevado"
+    ]
+  },
+  {
+    "english": [
+      "pitch"
+    ],
+    "id": 930,
+    "score": 0,
+    "spanish": [
+      "pitch"
+    ]
+  },
+  {
+    "english": [
+      "coat"
+    ],
+    "id": 931,
+    "score": 0,
+    "spanish": [
+      "abrigo"
+    ]
+  },
+  {
+    "english": [
+      "mass"
+    ],
+    "id": 932,
+    "score": 0,
+    "spanish": [
+      "masa"
+    ]
+  },
+  {
+    "english": [
+      "card"
+    ],
+    "id": 933,
+    "score": 0,
+    "spanish": [
+      "tarjeta"
+    ]
+  },
+  {
+    "english": [
+      "band"
+    ],
+    "id": 934,
+    "score": 0,
+    "spanish": [
+      "banda"
+    ]
+  },
+  {
+    "english": [
+      "rope"
+    ],
+    "id": 935,
+    "score": 0,
+    "spanish": [
+      "cuerda"
+    ]
+  },
+  {
+    "english": [
+      "slip"
+    ],
+    "id": 936,
+    "score": 0,
+    "spanish": [
+      "deslizamiento"
+    ]
+  },
+  {
+    "english": [
+      "win"
+    ],
+    "id": 937,
+    "score": 0,
+    "spanish": [
+      "ganar"
+    ]
+  },
+  {
+    "english": [
+      "dream"
+    ],
+    "id": 938,
+    "score": 0,
+    "spanish": [
+      "so\u00f1ar"
+    ]
+  },
+  {
+    "english": [
+      "evening"
+    ],
+    "id": 939,
+    "score": 0,
+    "spanish": [
+      "noche"
+    ]
+  },
+  {
+    "english": [
+      "condition"
+    ],
+    "id": 940,
+    "score": 0,
+    "spanish": [
+      "condici\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "feed"
+    ],
+    "id": 941,
+    "score": 0,
+    "spanish": [
+      "pienso"
+    ]
+  },
+  {
+    "english": [
+      "tool"
+    ],
+    "id": 942,
+    "score": 0,
+    "spanish": [
+      "herramienta"
+    ]
+  },
+  {
+    "english": [
+      "total"
+    ],
+    "id": 943,
+    "score": 0,
+    "spanish": [
+      "totales"
+    ]
+  },
+  {
+    "english": [
+      "basic"
+    ],
+    "id": 944,
+    "score": 0,
+    "spanish": [
+      "b\u00e1sico"
+    ]
+  },
+  {
+    "english": [
+      "smell"
+    ],
+    "id": 945,
+    "score": 0,
+    "spanish": [
+      "olor"
+    ]
+  },
+  {
+    "english": [
+      "valley"
+    ],
+    "id": 946,
+    "score": 0,
+    "spanish": [
+      "valle"
+    ]
+  },
+  {
+    "english": [
+      "nor"
+    ],
+    "id": 947,
+    "score": 0,
+    "spanish": [
+      "ni"
+    ]
+  },
+  {
+    "english": [
+      "double"
+    ],
+    "id": 948,
+    "score": 0,
+    "spanish": [
+      "doble"
+    ]
+  },
+  {
+    "english": [
+      "seat"
+    ],
+    "id": 949,
+    "score": 0,
+    "spanish": [
+      "asiento"
+    ]
+  },
+  {
+    "english": [
+      "continue"
+    ],
+    "id": 950,
+    "score": 0,
+    "spanish": [
+      "continuar"
+    ]
+  },
+  {
+    "english": [
+      "block"
+    ],
+    "id": 951,
+    "score": 0,
+    "spanish": [
+      "bloque"
+    ]
+  },
+  {
+    "english": [
+      "chart"
+    ],
+    "id": 952,
+    "score": 0,
+    "spanish": [
+      "tabla"
+    ]
+  },
+  {
+    "english": [
+      "hat"
+    ],
+    "id": 953,
+    "score": 0,
+    "spanish": [
+      "sombrero"
+    ]
+  },
+  {
+    "english": [
+      "sell"
+    ],
+    "id": 954,
+    "score": 0,
+    "spanish": [
+      "vender"
+    ]
+  },
+  {
+    "english": [
+      "success"
+    ],
+    "id": 955,
+    "score": 0,
+    "spanish": [
+      "\u00e9xito"
+    ]
+  },
+  {
+    "english": [
+      "company"
+    ],
+    "id": 956,
+    "score": 0,
+    "spanish": [
+      "empresa"
+    ]
+  },
+  {
+    "english": [
+      "subtract"
+    ],
+    "id": 957,
+    "score": 0,
+    "spanish": [
+      "restar"
+    ]
+  },
+  {
+    "english": [
+      "event"
+    ],
+    "id": 958,
+    "score": 0,
+    "spanish": [
+      "evento"
+    ]
+  },
+  {
+    "english": [
+      "particular"
+    ],
+    "id": 959,
+    "score": 0,
+    "spanish": [
+      "particular,"
+    ]
+  },
+  {
+    "english": [
+      "deal"
+    ],
+    "id": 960,
+    "score": 0,
+    "spanish": [
+      "acuerdo"
+    ]
+  },
+  {
+    "english": [
+      "swim"
+    ],
+    "id": 961,
+    "score": 0,
+    "spanish": [
+      "nadar"
+    ]
+  },
+  {
+    "english": [
+      "term"
+    ],
+    "id": 962,
+    "score": 0,
+    "spanish": [
+      "plazo"
+    ]
+  },
+  {
+    "english": [
+      "opposite"
+    ],
+    "id": 963,
+    "score": 0,
+    "spanish": [
+      "opuesta"
+    ]
+  },
+  {
+    "english": [
+      "wife"
+    ],
+    "id": 964,
+    "score": 0,
+    "spanish": [
+      "esposa"
+    ]
+  },
+  {
+    "english": [
+      "shoe"
+    ],
+    "id": 965,
+    "score": 0,
+    "spanish": [
+      "zapato"
+    ]
+  },
+  {
+    "english": [
+      "shoulder"
+    ],
+    "id": 966,
+    "score": 0,
+    "spanish": [
+      "hombro"
+    ]
+  },
+  {
+    "english": [
+      "spread"
+    ],
+    "id": 967,
+    "score": 0,
+    "spanish": [
+      "propagaci\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "arrange"
+    ],
+    "id": 968,
+    "score": 0,
+    "spanish": [
+      "organizar"
+    ]
+  },
+  {
+    "english": [
+      "camp"
+    ],
+    "id": 969,
+    "score": 0,
+    "spanish": [
+      "campamento"
+    ]
+  },
+  {
+    "english": [
+      "invent"
+    ],
+    "id": 970,
+    "score": 0,
+    "spanish": [
+      "inventar"
+    ]
+  },
+  {
+    "english": [
+      "cotton"
+    ],
+    "id": 971,
+    "score": 0,
+    "spanish": [
+      "algod\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "born"
+    ],
+    "id": 972,
+    "score": 0,
+    "spanish": [
+      "nacido"
+    ]
+  },
+  {
+    "english": [
+      "determine"
+    ],
+    "id": 973,
+    "score": 0,
+    "spanish": [
+      "determinar"
+    ]
+  },
+  {
+    "english": [
+      "quart"
+    ],
+    "id": 974,
+    "score": 0,
+    "spanish": [
+      "cuarto de gal\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "nine"
+    ],
+    "id": 975,
+    "score": 0,
+    "spanish": [
+      "nueve"
+    ]
+  },
+  {
+    "english": [
+      "truck"
+    ],
+    "id": 976,
+    "score": 0,
+    "spanish": [
+      "cami\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "noise"
+    ],
+    "id": 977,
+    "score": 0,
+    "spanish": [
+      "ruido"
+    ]
+  },
+  {
+    "english": [
+      "level"
+    ],
+    "id": 978,
+    "score": 0,
+    "spanish": [
+      "nivel"
+    ]
+  },
+  {
+    "english": [
+      "chance"
+    ],
+    "id": 979,
+    "score": 0,
+    "spanish": [
+      "oportunidad"
+    ]
+  },
+  {
+    "english": [
+      "gather"
+    ],
+    "id": 980,
+    "score": 0,
+    "spanish": [
+      "reunir"
+    ]
+  },
+  {
+    "english": [
+      "shop"
+    ],
+    "id": 981,
+    "score": 0,
+    "spanish": [
+      "tienda"
+    ]
+  },
+  {
+    "english": [
+      "stretch"
+    ],
+    "id": 982,
+    "score": 0,
+    "spanish": [
+      "tramo"
+    ]
+  },
+  {
+    "english": [
+      "throw"
+    ],
+    "id": 983,
+    "score": 0,
+    "spanish": [
+      "lanzar"
+    ]
+  },
+  {
+    "english": [
+      "shine"
+    ],
+    "id": 984,
+    "score": 0,
+    "spanish": [
+      "brillo"
+    ]
+  },
+  {
+    "english": [
+      "property"
+    ],
+    "id": 985,
+    "score": 0,
+    "spanish": [
+      "propiedad"
+    ]
+  },
+  {
+    "english": [
+      "column"
+    ],
+    "id": 986,
+    "score": 0,
+    "spanish": [
+      "columna"
+    ]
+  },
+  {
+    "english": [
+      "molecule"
+    ],
+    "id": 987,
+    "score": 0,
+    "spanish": [
+      "mol\u00e9cula"
+    ]
+  },
+  {
+    "english": [
+      "select"
+    ],
+    "id": 988,
+    "score": 0,
+    "spanish": [
+      "seleccionar"
+    ]
+  },
+  {
+    "english": [
+      "wrong"
+    ],
+    "id": 989,
+    "score": 0,
+    "spanish": [
+      "mal"
+    ]
+  },
+  {
+    "english": [
+      "gray"
+    ],
+    "id": 990,
+    "score": 0,
+    "spanish": [
+      "gris"
+    ]
+  },
+  {
+    "english": [
+      "repeat"
+    ],
+    "id": 991,
+    "score": 0,
+    "spanish": [
+      "repita"
+    ]
+  },
+  {
+    "english": [
+      "require"
+    ],
+    "id": 992,
+    "score": 0,
+    "spanish": [
+      "exigir"
+    ]
+  },
+  {
+    "english": [
+      "broad"
+    ],
+    "id": 993,
+    "score": 0,
+    "spanish": [
+      "amplio"
+    ]
+  },
+  {
+    "english": [
+      "prepare"
+    ],
+    "id": 994,
+    "score": 0,
+    "spanish": [
+      "preparar"
+    ]
+  },
+  {
+    "english": [
+      "salt"
+    ],
+    "id": 995,
+    "score": 0,
+    "spanish": [
+      "sal"
+    ]
+  },
+  {
+    "english": [
+      "nose"
+    ],
+    "id": 996,
+    "score": 0,
+    "spanish": [
+      "nariz"
+    ]
+  },
+  {
+    "english": [
+      "plural"
+    ],
+    "id": 997,
+    "score": 0,
+    "spanish": [
+      "plurales"
+    ]
+  },
+  {
+    "english": [
+      "anger"
+    ],
+    "id": 998,
+    "score": 0,
+    "spanish": [
+      "c\u00f3lera"
+    ]
+  },
+  {
+    "english": [
+      "claim"
+    ],
+    "id": 999,
+    "score": 0,
+    "spanish": [
+      "reclamaci\u00f3n"
+    ]
+  },
+  {
+    "english": [
+      "continent"
+    ],
+    "id": 1000,
+    "score": 0,
+    "spanish": [
+      "continente"
+    ]
+  }
+]

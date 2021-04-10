@@ -1,15 +1,12 @@
 import { useForm } from "react-hook-form";
-import { usePost } from "../utils/request";
-
-const objectToFormData = (object) => {
-    const formData = new FormData();
-    Object.keys(object).forEach(key => formData.append(key, object[key]));
-    return formData;
-}
+import { Redirect } from "react-router";
+import { Link } from "react-router-dom";
+import { objectToFormData, usePost } from "../utils/request";
+import './style.scss'
 
 const Register = () => {
     
-    const { register, handleSubmit, formState: { errors } } = useForm();
+    const { register, handleSubmit } = useForm();
     const { post, loading, result } = usePost()
 
     const onSubmit = data => {
@@ -18,19 +15,37 @@ const Register = () => {
     }
 
     if (loading) return <p>loading . . .</p>
+
+    if (result && result.data.success) return <Redirect to={'/'}/>
   
     return (
-      <form onSubmit={handleSubmit(onSubmit)}>
+      <form onSubmit={handleSubmit(onSubmit)} id="register">
 
         { result && !result.data.success &&
             <p>{result.data.message}</p>
         }
 
-        <input placeholder="name" {...register("name")} />
-        <input placeholder="email" {...register("email")} />
-        <input placeholder="password" {...register("password", { required: true })} />
-        {errors.password && <span>This field is required</span>}
-        <input type="submit" />
+        <div className='register-input-wrapper'>
+          <label htmlFor="name">Name</label>
+          <input name="name" {...register("name", { required: true })} />
+        </div>
+
+        <div className='register-input-wrapper'>
+          <label htmlFor="email">Email</label>
+          <input name="email" {...register("email", { required: true })} />
+        </div>
+
+        <div className='register-input-wrapper'>
+          <label htmlFor="password">Password</label>
+          <input type="password" name="password" {...register("password", { required: true })} />
+        </div>
+
+        <div className='register-input-wrapper'>
+          <input type="submit" />
+        </div>
+
+        <Link to="/login">Already registered?</Link>
+
       </form>
     );
   }

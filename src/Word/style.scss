@@ -1,0 +1,34 @@
+.word {
+
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+
+    .word-id {
+        width: 36px;
+        height: 36px;
+        line-height: 36px;
+        border: 1px solid #555;
+        text-align: center;
+        color: #555
+    }
+
+    .word-item {
+        display: grid;
+        grid-template-columns: 36px 1fr;
+        border: 1px solid black;
+        height: 36px;
+
+        .word-item-prefix {
+            background-color: #555;
+            color: white;
+            text-align: center;
+            border-right: 1px solid black;
+        }
+
+        p {
+            padding: 12px;
+            line-height: 12px;
+        }
+    }
+}
