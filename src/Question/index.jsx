@@ -30,6 +30,8 @@ const Question = ({setAnswerResult, showSpanish, setShowSpanish}) => {
     }
   }, [data, showSpanish])
 
+  console.log(data?.next_word)
+
   return (
     <div id="question">
       <Loading loading={requestLoading || postLoading}>
@@ -37,6 +39,15 @@ const Question = ({setAnswerResult, showSpanish, setShowSpanish}) => {
         <div id="question-word">
           <p className={"mono small"}>Translate to {showSpanish ? 'English' : 'Spanish'}</p>
           <h3>{ word && translationsToString(word) }</h3>
+
+          { showSpanish && data?.next_word?.word?.to_english_tip &&
+            <p className={"mono small word-tip"}>Tip: {data.next_word.word.to_english_tip}</p>
+          }
+
+          { !showSpanish && data?.next_word?.word?.to_spanish_tip &&
+            <p className={"mono small word-tip"}>Tip: {data.next_word.word.to_spanish_tip}</p>
+          }
+
         </div>
 
         <div id="question-form">
