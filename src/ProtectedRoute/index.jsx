@@ -1,11 +1,21 @@
-import { Redirect } from "react-router";
+import { useEffect } from "react";
+import { useHistory } from "react-router";
+import Loading from "../Loading";
 import { useRequest } from "../utils/request";
 
 const ProtectedRoute = ({children}) => {
   const {loading, data} = useRequest('/user_is_authorized');
+  const { push } = useHistory();
 
-  if (loading) return <p>Loading . . .</p>;
-  return (data && data.authorized) ? children : <Redirect to="/login"/>;
+  useEffect(() => {
+    if (data && !data.authorized) push('/login') 
+  }, [data, push])
+
+  return (
+    <Loading loading={loading}>
+      { children }
+    </Loading>
+    );
 }
 
 export default ProtectedRoute;

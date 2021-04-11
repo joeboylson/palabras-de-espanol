@@ -10,11 +10,10 @@ import Question from "../Question";
 const Home = () => {
 
   const [answerResult, setAnswerResult] = useState(null);  
-  const [showSpanish, setShowSpanish] = useState(true);
 
-  const _showSpanish = random(0, 10) > 5
+  const showSpanish = random(0, 10) > 5
 
-  const props = {answerResult, setAnswerResult, showSpanish: _showSpanish, setShowSpanish}
+  const props = {answerResult, setAnswerResult, showSpanish}
   if (answerResult) return <AnswerResult {...props}/>;
   return <Question {...props}/>
 

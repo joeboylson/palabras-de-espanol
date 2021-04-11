@@ -1,8 +1,9 @@
-import { useForm } from "react-hook-form";
-
-// components
-import { Redirect } from "react-router";
+import { useEffect } from "react";
+import { useForm, Controller } from "react-hook-form";
+import { useHistory } from "react-router";
 import { Link } from "react-router-dom";
+import Input from "../Input";
+import Loading from "../Loading";
 
 // utils
 import { objectToFormData, usePost } from "../utils/request";
@@ -12,40 +13,55 @@ import './style.scss'
 
 const Login = () => {
     
-  const { register, handleSubmit } = useForm();
-  const { post, loading, result } = usePost()
+  const { handleSubmit, control } = useForm();
+  const { post, loading, result } = usePost();
+  const { push } = useHistory();
+
+  useEffect(() => {
+    if (result && result.data.success) push('/');
+  }, [result, push])
 
   const onSubmit = data => {
     const formData = objectToFormData(data)
     post('/login', formData, true);
   }
-
-  if (loading) return <p>loading . . .</p>
-
-  if (result && result.data.success) return <Redirect to={'/'}/>
   
   return (
     <form onSubmit={handleSubmit(onSubmit)} id="login">
+      <Loading loading={loading}>
+        { result && !result.data.success &&
+          <p>{result.data.message}</p>
+        }
 
-      { result && !result.data.success &&
-        <p>{result.data.message}</p>
-      }
+        <Controller
+          name="email"
+          control={control}
+          render={({ field: { onChange } }) => (
+            <Input 
+              name="email" 
+              placeholder="Email"
+              onChange={onChange}
+            />
+          )}
+        />
 
-      <div className='login-input-wrapper'>
-        <label htmlFor="email">Email</label>
-        <input name="email" {...register("email", { required: true })} />
-      </div>
+        <Controller
+          name="password"
+          control={control}
+          render={({ field: { onChange } }) => (
+            <Input 
+              name="password" 
+              placeholder="Password"
+              type="password"
+              onChange={onChange}
+            />
+          )}
+        />
 
-      <div className='login-input-wrapper'>
-        <label htmlFor="password">Password</label>
-        <input type="password" name="password" {...register("password", { required: true })} />
-      </div>
+        <button>Login</button>
 
-      <div className='login-input-wrapper'>
-        <input type="submit" />
-      </div>
-
-      <Link to="/register">Register</Link>
+        <Link to="/register">Register</Link>
+      </Loading>
     </form>
   );
 }

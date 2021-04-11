@@ -37,6 +37,7 @@ def create_user(name, email, password):
             db.session.add(new_user_word)
             
         db.session.commit()
+        return new_user
     except Exception as e:
         print(e)
         return None

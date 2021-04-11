@@ -17,7 +17,7 @@ DATABASE_URL = os.environ.get('DATABASE_URL') if IS_PRODUCTION else 'sqlite:///d
 class FlaskApp(Flask):
     def run(self, host=None, port=None, debug=None, load_dotenv=True, **options):
         with self.app_context():
-            init_db()    
+            init_db(IS_PRODUCTION)    
         super(FlaskApp, self).run(host=host, port=port, debug=debug, load_dotenv=load_dotenv, **options)
 
 app = FlaskApp(__name__, static_folder='./build', static_url_path='/')

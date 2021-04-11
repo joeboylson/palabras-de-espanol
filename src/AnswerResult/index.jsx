@@ -1,9 +1,5 @@
 import { useEffect, useRef } from "react";
-
-// components
-import Word from "../Word";
-
-// styles
+import { translationsToString } from "../utils/word";
 import './style.scss'
 
 const AnswerResult = ({answerResult, setAnswerResult}) => {
@@ -16,14 +12,26 @@ const AnswerResult = ({answerResult, setAnswerResult}) => {
   })
   
   return (
-    <div className={'answer-result'}>
-
-      <div className={`message ${answerResult.correct ? 'correct' : 'incorrect'}`}>
-        <p>{answerResult.correct ? 'Correct' : 'Incorrect'}</p>
+    <div id="answer-result">
+      <div
+        id="banner"
+        className={`${answerResult.correct ? 'correct' : 'incorrect'}`}
+      >
+        <h2>{answerResult.correct ? 'Correct' : 'Incorrect'}</h2>
       </div>
-      <p>You Entered: "{answerResult.answer_text}"</p>
-      <Word word={answerResult.user_word.word}/>
-      <button onClick={handleClearAnswerResult} ref={inputRef}>CLEAR</button>
+      <h3>You Entered: "{answerResult.answer_text}"</h3>
+
+      <div className="result-card">
+        <p className={"mono small"}>English</p>
+        <h3>{ answerResult && translationsToString(answerResult.user_word.word.english) }</h3>
+      </div>
+
+      <div className="result-card">
+        <p className={"mono small"}>Spanish</p>
+        <h3>{ answerResult && translationsToString(answerResult.user_word.word.spanish) }</h3>
+      </div>
+
+      <button onClick={handleClearAnswerResult} ref={inputRef}>Continue</button>
     </div>
   ); 
 }

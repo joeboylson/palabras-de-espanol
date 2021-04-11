@@ -1,11 +1,52 @@
-#words-list {
-
+#admin {
     display: flex;
     flex-direction: column;
-    gap: 24px;
+    gap: 48px;
+    padding-bottom: 48px;
+}
 
-    .word {
-        display: grid;
-        grid-template-columns: 36px 1fr 1fr;
+#pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#word-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px
+}
+
+.word-list-item {
+    display: grid;
+    grid-template-columns: 72px 1fr 1fr;
+
+    button {
+        border-right: none;
     }
+
+    .translation-detail {
+        border: 1px solid black;
+        border-right: none;
+
+        p {
+            padding: 6px;
+        }
+
+        &:last-child {
+            border-right: 1px solid black;
+        }
+    }
+}
+
+#update-form {
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+}
+
+.update-form-input-group {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
 }

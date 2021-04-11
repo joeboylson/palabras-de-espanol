@@ -7,7 +7,10 @@ from .words import *
 from .spanish import *
 from .english import *
 
-def init_db():
+def init_db(production=False):
+
+    if production:
+        return
 
     db.drop_all()
     db.create_all()

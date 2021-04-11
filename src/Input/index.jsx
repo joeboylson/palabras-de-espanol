@@ -3,9 +3,16 @@ import { useCallback, useEffect, useRef } from "react";
 // styles
 import './style.scss'
 
-const spanishAccents = ['á', 'é', 'í', 'ó', 'ú', 'ü', 'ñ', '¿', '¡']
+const spanishAccents = ['á', 'é', 'í', 'ó', 'ú', 'ü', 'ñ']
 
-const Input = ({onChange, spanish=false}) => {
+const Input = ({
+  name, 
+  placeholder, 
+  type = "text",
+  autocomplete="off",
+  onChange, 
+  defaultValue,
+  spanish=false}) => {
 
   const inputRef = useRef(null)
 
@@ -40,19 +47,33 @@ const Input = ({onChange, spanish=false}) => {
   }, [spanish, handleKeyPress])
 
   return (
-    <div className={'input'}>
-      <input ref={inputRef} onChange={e => onChange(e.target.value)}></input>
-      { spanish && spanishAccents.map( (accent, index) => {
-          return <button 
-            key={index} 
-            onClick={() => appendToText(accent)} 
-            tabIndex={-1} 
-            className={'accent-button mono small'}
-          >
-            <p>{accent}</p>
-            <p className={'small'}>Ctrl+{index+1}</p>
-          </button>
-      } )}
+    <div className="input">
+      <input
+        name={name}
+        placeholder={placeholder}
+        ref={inputRef} 
+        onChange={e => onChange(e.target.value)}
+        type={type}
+        autoComplete={autocomplete}
+        defaultValue={defaultValue}
+      ></input>
+
+      <div className="accents-wrapper">
+        { spanish && spanishAccents.map( (accent, index) => {
+            return <button 
+              key={index} 
+              type="button"
+              onClick={() => appendToText(accent)} 
+              tabIndex={-1}
+              className={'accent-button'}
+            >
+              <p>{accent}</p>
+              <p className={'small mono'}>Ctrl+{index+1}</p>
+            </button>
+        } )}
+
+      </div>
+
     </div>
   )
 }

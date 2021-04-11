@@ -1,8 +1,12 @@
 import { useEffect, useState } from "react";
-import { useForm } from "react-hook-form";
-import { Redirect } from "react-router";
+import { useForm, Controller } from "react-hook-form";
+import { useHistory } from "react-router";
 import { objectToFormData, usePost, useRequest } from "../utils/request";
-import Word from "../Word";
+import { translationsToString } from "../utils/word";
+import { range } from 'lodash';
+import { Link } from "react-router-dom";
+import Loading from "../Loading";
+import Input from "../Input";
 import './style.scss'
 
 const Admin = () => {
@@ -10,27 +14,34 @@ const Admin = () => {
     const {loading, data, refetch} = useRequest('/user_is_admin');
     const [page, setPage] = useState(0)
     const [selectedWord, setSelectedWord] = useState(null)
+    const { push } = useHistory();
 
     useEffect(() => {
         if (loading && selectedWord) setSelectedWord(null)
     }, [loading, selectedWord])
 
-    if (loading) return <p>Loading . . .</p>;
-    if (data && !data.is_admin) return <Redirect to="/"/>;
+    useEffect(() => {
+        if (data && !data.is_admin) return push("/");
+    }, [data, push])
 
-    const handleClose = () => {
-        refetch();
-    }
+    const handleClose = () => refetch();
+    
+    if (selectedWord) return <UpdateWordForm selectedWord={!loading && selectedWord} close={handleClose}/>
 
     return (
-        <div>
+        <div id="admin">
+            <Loading loading={loading}>
 
-            { selectedWord && !loading && 
-                <UpdateWordForm selectedWord={!loading && selectedWord} close={handleClose}/>
-            }
+                <Link to="/">Back</Link>
 
-            <button onClick={() => setPage(page+1)}>+1</button>
-            <WordsList page={page} setSelectedWord={setSelectedWord}/>
+                <div id="pagination">
+                    <button onClick={() => setPage(page-1)}>-1</button>
+                    <p>Page {page+1}</p>
+                    <button onClick={() => setPage(page+1)}>+1</button>
+                </div>
+
+                <WordsList page={page} setSelectedWord={setSelectedWord}/>
+            </Loading>
         </div>
     )
 }
@@ -42,11 +53,20 @@ const WordsList = ({page, setSelectedWord}) => {
     if (loading) return <p>Loading . . .</p>;
 
     return (
-        <div id="words-list">
+        <div id="word-list">
             { data.all_words.map((word, index) => {
-                return <div key={index}>
-                    <Word word={word} key={index}/>
+                return <div key={index} className="word-list-item">
                     <button onClick={() => setSelectedWord(word)}>Edit</button>
+                    
+                    <div className={'translation-detail'}>
+                        <p className={'mono small'}>English</p>
+                        <p>{ translationsToString(word.english) }</p>
+                    </div>
+
+                    <div className={'translation-detail'}>
+                        <p className={'mono small'}>Spanish</p>
+                        <p>{ translationsToString(word.spanish) }</p>
+                    </div>
                 </div>
             })}
         </div>
@@ -56,7 +76,7 @@ const WordsList = ({page, setSelectedWord}) => {
 
 const UpdateWordForm = ({selectedWord, close}) => {
 
-    const { register, handleSubmit } = useForm();
+    const { handleSubmit, control } = useForm();
     const { post, loading, result } = usePost()
 
     useEffect(() => {
@@ -64,14 +84,13 @@ const UpdateWordForm = ({selectedWord, close}) => {
     }, [close, loading, result])
 
     const onSubmit = data => {
-
         const {spanish_1, spanish_2, spanish_3, spanish_4} = data
         const {english_1, english_2, english_3, english_4} = data
 
         const postData = {
             word_id: selectedWord.id,
-            spanish_translations: [spanish_1, spanish_2, spanish_3, spanish_4].filter(i => i !== ""),
-            english_translations: [english_1, english_2, english_3, english_4].filter(i => i !== "")
+            spanish_translations: [spanish_1, spanish_2, spanish_3, spanish_4].filter(i => (i && i !== "")),
+            english_translations: [english_1, english_2, english_3, english_4].filter(i => (i && i !== ""))
         }
 
         const formData = objectToFormData(postData)
@@ -80,37 +99,59 @@ const UpdateWordForm = ({selectedWord, close}) => {
 
     const getWordByIndex = (language, index) => {
         if (language && language[index] && language[index].text) {
+            console.log(language)
             return language[index].text;
         } else {
             return null;
         }
     };
 
-    const {spanish, english} = selectedWord;
-
-    if (loading) return <p>Loading . . .</p>;
-
     return (
-        <form onSubmit={handleSubmit(onSubmit)}>
+        <form onSubmit={handleSubmit(onSubmit)} id="update-form">
+            <Loading>
+                <div className="update-form-input-group">
+                    <h3>Spanish</h3>
 
-            <div>
-                <p>Spanish</p>
-                <input name="spanish_1" {...register("spanish_1")} defaultValue={ getWordByIndex(spanish, 0) }/>
-                <input name="spanish_2" {...register("spanish_2")} defaultValue={ getWordByIndex(spanish, 1) }/>
-                <input name="spanish_3" {...register("spanish_3")} defaultValue={ getWordByIndex(spanish, 2) }/>
-                <input name="spanish_4" {...register("spanish_4")} defaultValue={ getWordByIndex(spanish, 3) }/>
-            </div>
+                    { range(1, 5).map( i => (
+                        <Controller
+                            key={i}
+                            name={`spanish_${i}`}
+                            control={control}
+                            defaultValue={ getWordByIndex(selectedWord.spanish, i) }
+                            render={({ field: { onChange } }) => (
+                                <Input 
+                                    spanish 
+                                    defaultValue={ getWordByIndex(selectedWord.spanish, i) }
+                                    name={`spanish_${i}`} 
+                                    onChange={onChange}
+                                />
+                            )}
+                        />
+                    ))}
+                </div>
 
-            <div>
-                <p>English</p>
-                <input name="english_1" {...register("english_1")} defaultValue={ getWordByIndex(english, 0) }/>
-                <input name="english_2" {...register("english_2")} defaultValue={ getWordByIndex(english, 1) }/>
-                <input name="english_3" {...register("english_3")} defaultValue={ getWordByIndex(english, 2) }/>
-                <input name="english_4" {...register("english_4")} defaultValue={ getWordByIndex(english, 3) }/>
-            </div>
+                <div className="update-form-input-group">
+                    <h3>English</h3>
+                    { range(1, 5).map( i => (
+                        <Controller
+                            key={i}
+                            name={`english_${i}`}
+                            control={control}
+                            defaultValue={ getWordByIndex(selectedWord.english, i) }
+                            render={({ field: { onChange } }) => (
+                                <Input 
+                                    name={`english_${i}`} 
+                                    onChange={onChange}
+                                    defaultValue={ getWordByIndex(selectedWord.english, i) }
+                                />
+                            )}
+                        />
+                    ))}
 
-            <input type="submit" />
+                </div>
 
+                <input type="submit" />
+            </Loading>
         </form>
     )
     

@@ -1,26 +1,19 @@
-import { useEffect, useState } from "react";
-
-// components
-import Input from "../Input";
-import Word from "../Word";
-
-// utils
+import { useEffect, useMemo, useState } from "react";
 import { objectToFormData, usePost, useRequest } from "../utils/request";
-
-// styles
+import { translationsToString } from "../utils/word";
+import Input from "../Input";
+import Loading from "../Loading";
 import './style.scss'
 
 const Question = ({setAnswerResult, showSpanish, setShowSpanish}) => {
 
   const [input, setInput] = useState('');
-  const {loading, data} = useRequest('/next_word')
-  const { post, result } = usePost()
+  const { loading: requestLoading, data } = useRequest('/next_word')
+  const { loading: postLoading, post, result } = usePost()
 
   useEffect(() => {
     if (result) setAnswerResult(result.data)
   }, [result, setAnswerResult])
-
-  if (loading) return <p>loading . . .</p>
 
   const handlePost = () => {
     const postData = {
@@ -31,31 +24,26 @@ const Question = ({setAnswerResult, showSpanish, setShowSpanish}) => {
     post('/question_answer', objectToFormData(postData))
   }
 
+  const word = useMemo(() => {
+    if (data && data.next_word) {
+      return showSpanish ? data.next_word.word.spanish : data.next_word.word.english
+    }
+  }, [data, showSpanish])
+
   return (
     <div id="question">
+      <Loading loading={requestLoading || postLoading}>
+        
+        <div id="question-word">
+          <p className={"mono small"}>Translate to {showSpanish ? 'English' : 'Spanish'}</p>
+          <h3>{ word && translationsToString(word) }</h3>
+        </div>
 
-      <div id="question-header">
-        <button 
-          onClick={() => setShowSpanish(false)}
-          className={showSpanish ? '' : 'active'}
-        >English To Spanish</button>
-
-        <button 
-          onClick={() => setShowSpanish(true)}
-          className={showSpanish ? 'active' : ''}
-        >Spanish To English</button>
-      </div>
-
-      <p><i>Translate to {showSpanish ? 'English' : 'Spanish'}</i></p>
-
-      <Word 
-        word={data.next_word.word}
-        hideEnglish={showSpanish}
-        hideSpanish={!showSpanish}
-      />
-
-      <Input spanish={!showSpanish} onChange={setInput}/>
-      <button onClick={handlePost}>POST</button>
+        <div id="question-form">
+          <Input spanish={!showSpanish} onChange={setInput}/>
+          <button onClick={handlePost}>Submit</button>
+        </div>
+      </Loading>
     </div>
   );
 

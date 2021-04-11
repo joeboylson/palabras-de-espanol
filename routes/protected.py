@@ -15,19 +15,27 @@ def before_request():
     if not current_user:
         abort(401)
 
+
+
 @protected.route('/logout')
 def logout():
     logout_user()
     return "successfully logged out"
 
+
+
 @protected.route('/profile')
 def profile():
     return json.dumps({"success": True, "profile": current_user.to_dict()})
+
+
 
 @protected.route('/next_word')
 def next_word():
     next_word = get_user_next_word(current_user)
     return json.dumps({"success": True, "next_word": next_word })
+
+
 
 @protected.route('/question_answer', methods=['POST'])
 def question_answer():
@@ -62,9 +70,13 @@ def question_answer():
 
     return json.dumps({"success": True, "correct": correct, "user_word": user_word.to_dict(), "answer_text": answer_text })
 
+
+
 @protected.route('/user_is_admin')
 def data():
     return json.dumps({ "is_admin": current_user.is_admin})
+
+
 
 @protected.route('/all_words')
 def all_words():

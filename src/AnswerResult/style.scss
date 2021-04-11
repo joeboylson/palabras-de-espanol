@@ -1,28 +1,33 @@
-.answer-result {
-
+#answer-result {
     display: flex;
     flex-direction: column;
-    gap: 24px;
+    gap: 48px;
+}
 
-    .message {
-        &.correct {
-            border: 1px solid #52c41a;
-            p {
-                color: #52c41a;
-            }
-        }
+#banner {
 
-        &.incorrect {
-            border: 1px solid #f5222d;
+    color: black;
+    border: 1px solid black;
+    padding: 24px;
+    text-align: center;
 
-            p {
-                color: #f5222d;
-            }
-            
-        }
+    &.correct {
+        background-color: #73d13d;
+    }
 
-        p {
-            padding: 12px;
-        }
+    &.incorrect {
+        background-color: #ff4d4f;
+    }
+}
+
+.result-card {
+    border: 1px solid black;
+    
+    p, h3 {
+        padding: 12px;
+    }
+
+    p {
+        border-bottom: 1px solid black;
     }
 }

@@ -1,10 +1,23 @@
 #question {
     display: flex;
     flex-direction: column;
-    gap: 24px;
+    gap: 48px;
+}
 
-    #question-header {
-        display: flex;
-        gap: 12px;
+#question-word {
+    border: 1px solid black;
+    
+    p, h3 {
+        padding: 12px;
     }
+
+    p {
+        border-bottom: 1px solid black;
+    }
+}
+
+#question-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
 }

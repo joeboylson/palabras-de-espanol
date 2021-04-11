@@ -11,9 +11,7 @@ unprotected = Blueprint('unprotected', __name__, template_folder='../build')
 def page_not_found():
     return render_template('index.html')
 
-# @unprotected.route("/static/<path:path>")
-# def static_dir(path):
-#     return send_from_directory("build/static", path)
+
 
 @unprotected.route('/')
 @unprotected.route('/register')
@@ -23,24 +21,27 @@ def page_not_found():
 def index():
     return render_template('index.html', )
 
+
+
 @unprotected.route('/login', methods=['POST'])
 def login():
     email = request.form.get('email')
     password = request.form.get('password')
-    remember = True if request.form.get('remember') else False
 
     user = get_user_by_email(email)
 
     if not user:
-        return json.dumps({ "success": False, "message": "failed to log in" });
+        return json.dumps({ "success": False, "message": "User with this email does not exist" });
 
     login_success = check_password_hash(user.password, password)
 
     if not login_success: 
-        return json.dumps({ "success": False, "message": "failed to log in" });
+        return json.dumps({ "success": False, "message": "Incorrect username or password" });
 
-    login_user(user, remember=remember)
-    return json.dumps({ "success": True, "message": "successfully logged in" });
+    login_user(user, remember=True)
+    return json.dumps({ "success": True, "message": "Hello, {}".format(user.name) });
+
+
 
 @unprotected.route('/register', methods=['POST'])
 def register():
@@ -52,13 +53,15 @@ def register():
     user = get_user_by_email(email)
 
     if user:
-        return json.dumps({ "success": False, "message": "email already used" });
+        return json.dumps({ "success": False, "message": "{} is already used".format(email) });
 
-    success = create_user(name, email, password)
-    if success:
+    new_user = create_user(name, email, password)
+    if new_user:
+        login_user(new_user)
         return json.dumps({ "success": True, "message": "succesfully registered" });
 
-    return json.dumps({ "success": False, "message": "failed to register" });
+    return json.dumps({ "success": False, "message": "Failed to register" });
+
 
 
 @unprotected.route('/user_is_authorized')
