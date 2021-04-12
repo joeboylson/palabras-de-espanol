@@ -30,8 +30,6 @@ const Question = ({setAnswerResult, showSpanish, setShowSpanish}) => {
     }
   }, [data, showSpanish])
 
-  console.log(data?.next_word)
-
   return (
     <div id="question">
       <Loading loading={requestLoading || postLoading}>

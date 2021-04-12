@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useForm, Controller } from "react-hook-form";
 import { useHistory } from "react-router";
 import { objectToFormData, usePost, useRequest } from "../utils/request";
@@ -8,6 +8,15 @@ import { Link } from "react-router-dom";
 import Loading from "../Loading";
 import Input from "../Input";
 import './style.scss'
+
+const getWordByIndex = (language, index) => {
+    if (language && language[index] && language[index].text) {
+        return language[index].text;
+    } else {
+        console.log(language)
+        return null;
+    }
+};
 
 const Admin = () => {
 
@@ -97,14 +106,8 @@ const UpdateWordForm = ({selectedWord, close}) => {
         post('/update_word_translations', formData, true);
     }
 
-    const getWordByIndex = (language, index) => {
-        if (language && language[index] && language[index].text) {
-            console.log(language)
-            return language[index].text;
-        } else {
-            return null;
-        }
-    };
+    const english = useMemo(() => selectedWord.english, [selectedWord])
+    const spanish = useMemo(() => selectedWord.spanish, [selectedWord])
 
     return (
         <form onSubmit={handleSubmit(onSubmit)} id="update-form">
@@ -112,17 +115,17 @@ const UpdateWordForm = ({selectedWord, close}) => {
                 <div className="update-form-input-group">
                     <h3>Spanish</h3>
 
-                    { range(1, 5).map( i => (
+                    { range(4).map( i => (
                         <Controller
                             key={i}
-                            name={`spanish_${i}`}
+                            name={`spanish_${i+1}`}
                             control={control}
-                            defaultValue={ getWordByIndex(selectedWord.spanish, i) }
+                            defaultValue={ getWordByIndex(spanish, i) }
                             render={({ field: { onChange } }) => (
                                 <Input 
                                     spanish 
-                                    defaultValue={ getWordByIndex(selectedWord.spanish, i) }
-                                    name={`spanish_${i}`} 
+                                    defaultValue={ getWordByIndex(spanish, i) }
+                                    name={`spanish_${i+1}`} 
                                     onChange={onChange}
                                 />
                             )}
@@ -132,17 +135,17 @@ const UpdateWordForm = ({selectedWord, close}) => {
 
                 <div className="update-form-input-group">
                     <h3>English</h3>
-                    { range(1, 5).map( i => (
+                    { range(4).map( i => (
                         <Controller
                             key={i}
-                            name={`english_${i}`}
+                            name={`english_${i+1}`}
                             control={control}
-                            defaultValue={ getWordByIndex(selectedWord.english, i) }
+                            defaultValue={ getWordByIndex(english, i) }
                             render={({ field: { onChange } }) => (
                                 <Input 
-                                    name={`english_${i}`} 
+                                    name={`english_${i+1}`} 
                                     onChange={onChange}
-                                    defaultValue={ getWordByIndex(selectedWord.english, i) }
+                                    defaultValue={ getWordByIndex(english, i) }
                                 />
                             )}
                         />
