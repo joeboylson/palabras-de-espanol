@@ -56,10 +56,10 @@ def question_answer():
         return json.dumps({"success": False, "message": "invalid" })
     
     correct = answer_text.lower() in [ w.text for w in word ]
-    default_score = 0.5
+    default_score = 1
 
     if correct:
-        score = user_word.score * 2 if user_word.score > 0 else default_score
+        score = user_word.score * 3 if user_word.score > 0 else default_score
     else:
         score = default_score
 
