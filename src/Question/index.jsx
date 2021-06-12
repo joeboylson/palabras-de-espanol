@@ -5,7 +5,7 @@ import Input from "../Input";
 import Loading from "../Loading";
 import './style.scss'
 
-const Question = ({setAnswerResult, showSpanish, setShowSpanish}) => {
+const Question = ({setAnswerResult, showSpanish}) => {
 
   const [input, setInput] = useState('');
   const { loading: requestLoading, data } = useRequest('/next_word')
@@ -29,6 +29,12 @@ const Question = ({setAnswerResult, showSpanish, setShowSpanish}) => {
       return showSpanish ? data.next_word.word.spanish : data.next_word.word.english
     }
   }, [data, showSpanish])
+
+  if (!data && (!requestLoading && !postLoading)) return (
+    <div id="question">
+      <h3>No words to show . . .</h3>
+    </div>
+  )
 
   return (
     <div id="question">

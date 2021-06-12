@@ -4,6 +4,8 @@ import Home from "../Home";
 import Login from "../Login";
 import ProtectedRoute from "../ProtectedRoute";
 import Register from "../Register";
+import { NotificationContainer } from 'react-notifications';
+
 
 import './style.scss';
 
@@ -11,8 +13,8 @@ const App = () => {
   return (
     <Router>
       <main>
+        
         <Switch>
-          
           <Route exact path={["/register"]}>
             <Register/>
           </Route>
@@ -32,10 +34,9 @@ const App = () => {
               <Home/>
             </ProtectedRoute>
           </Route>
-
-
-          
         </Switch>
+
+        <NotificationContainer/>
       </main>
     </Router>
   );

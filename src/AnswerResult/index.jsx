@@ -1,6 +1,8 @@
 import { useEffect, useRef } from "react";
+import moment from "moment";
 import { translationsToString } from "../utils/word";
-import './style.scss'
+import { NotificationManager } from "react-notifications";
+import "./style.scss"
 
 const AnswerResult = ({answerResult, setAnswerResult}) => {
 
@@ -8,7 +10,15 @@ const AnswerResult = ({answerResult, setAnswerResult}) => {
   const handleClearAnswerResult = () => setAnswerResult(null);
   
   useEffect(() => {
-    if (inputRef.current && answerResult.correct) inputRef.current.focus()
+
+    const nextDate = moment.unix(answerResult.user_word.next_review_at)
+    const duration = moment.duration(moment().diff(nextDate));
+
+    const message = `Showing again in ${duration.humanize()}`
+    NotificationManager.info(message, null, 1000);
+
+    if (answerResult.correct) return handleClearAnswerResult()
+    if (inputRef.current && answerResult.correct) return inputRef.current.focus()
   })
   
   return (

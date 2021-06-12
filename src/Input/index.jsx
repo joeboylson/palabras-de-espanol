@@ -46,8 +46,6 @@ const Input = ({
     return window.removeEventListener('keypress', handleKeyPress);
   }, [spanish, handleKeyPress])
 
-  console.log({defaultValue})
-
   return (
     <div className="input">
       <input

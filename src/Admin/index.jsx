@@ -13,7 +13,6 @@ const getWordByIndex = (language, index) => {
     if (language && language[index] && language[index].text) {
         return language[index].text;
     } else {
-        console.log(language)
         return null;
     }
 };
