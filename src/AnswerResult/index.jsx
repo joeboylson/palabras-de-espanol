@@ -17,9 +17,13 @@ const AnswerResult = ({answerResult, setAnswerResult}) => {
     const message = `Showing again in ${duration.humanize()}`
     NotificationManager.info(message, null, 1000);
 
-    if (answerResult.correct) return handleClearAnswerResult()
     if (inputRef.current && answerResult.correct) return inputRef.current.focus()
   })
+
+  if (answerResult.correct) {
+    setAnswerResult(null);
+    return <span/>
+  }
   
   return (
     <div id="answer-result">
