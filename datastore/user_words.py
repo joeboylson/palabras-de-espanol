@@ -20,7 +20,13 @@ class UserWords(db.Model, SerializerMixin):
 def get_user_next_word(user):
     try:
         now = datetime.now().timestamp()
-        query_result = UserWords.query.filter_by(user_id=user.id).filter(UserWords.next_review_at < now).order_by(UserWords.score).first()
+        query_result = UserWords.query
+            .filter_by(user_id=user.id)
+            .filter(UserWords.next_review_at < now)
+            .order_by(UserWords.score)
+            .order_by(UserWords.word_id)
+            .first()
+        
         if query_result is not None:
             return query_result.to_dict()
         else:
